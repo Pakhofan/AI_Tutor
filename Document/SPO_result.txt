@@ -1,0 +1,324 @@
+<Subject>The definition of knowledge<Subject>
+<definition>is an<definition>
+<Object>augmentative topic in philosop<Object>
+
+<Subject>knowledg<Subject>
+<definition>as a<definition>
+<Object>meaningful resource that makes us know about the world<Object>
+
+<Subject>Theories of knowledge<Subject>
+<definition>define<definition>
+<Object>what is about the world , how is it encoded , and in what way we reason about the wor<Object>
+
+<Subject>Computational knowledge in computer system<Subject>
+<represent>has been represented as a<represent>
+<Object>hierarchy of data - information - knowledge in many knowledge management theories ( Daft , 2004 ; Devenpart and Prusak 2<Object>
+
+<Subject>Data<Subject>
+<definition>refers to<definition>
+<Object>a string of bits , numbers or symbols that are only meaningful to a progr<Object>
+
+<Subject>Data with meaning<Subject>
+<definition>define<definition>
+<Object>information that is meaningful to human<Object>
+
+<Subject>Creating computational knowledge<Subject>
+<definition>is<definition>
+<Object>a study of artificial intelligent ( AI ) - an area of computer science focusing on making a computer to perform tasks with more intelligence ( Genesereth and Nilsson 1987<Object>
+
+<Subject>Knowledge engineering<Subject>
+<definition>is<definition>
+<Object>a process to find out a way or approach to extract useful knowledge from computer data<Object>
+
+<Subject>scientific and mathematical approaches to discover the knowledg<Subject>
+<definition>can be simply defined as as as<definition>
+<Object>an input - process - output system : Input – the set of computer data such texts and database records ; process – the method for the transformation of input data to knowledge ; output – the desired knowledge in a specific form of knowledge representation ( such ontology<Object>
+
+<Subject>A general view of knowledge representation<Subject>
+<definition>can be summarized in<definition>
+<Object>five basic principles ( Randall <Object>
+
+<Subject>axiom<Subject>
+<definition><definition>
+<Object><Object>
+
+<Subject>An explicit axioms or computational logic<Subject>
+<definition>may be defined for<definition>
+<Object>intelligent reasoni<Object>
+
+<Subject>Knowledge representation<Subject>
+<definition>must be encoded in<definition>
+<Object>some sort of format , language , which enables a computer to process it efficient<Object>
+
+<Subject>In the area of information system , knowledge representation<Subject>
+<definition>defines<definition>
+<Object>a computable form of knowledge in Comput<Object>
+
+<Subject>Logic<Subject>
+<definition>defines<definition>
+<Object>a formal structure and rules ;<Object>
+
+<Subject>Ontology<Subject>
+<definition>defines<definition>
+<Object>the kinds of existence in a domain of interest ; and<Object>
+
+<Subject>Computation<Subject>
+<definition>supports and distinguishes<definition>
+<Object>knowledge representation from philosophical knowled<Object>
+
+<Subject>knowledge representation<Subject>
+<definition>defines<definition>
+<Object>different types of knowledge , typically ontologies , facts , rules , and constraints ( Chein and Mugnier 2008<Object>
+
+<Subject>Knowledge representation language<Subject>
+<use_to>is used to express<use_to>
+<Object>knowledge in information syst<Object>
+
+<Subject>The ontological level<Subject>
+<definition>is an<definition>
+<Object>ontological commitment including ontological relations , associated to an explicitly specified language primiti<Object>
+
+<Subject>2008 ) , ontology<Subject>
+<definition>is<definition>
+<Object>a relevant logical and graphical model for knowledge representation , and sometime it also said to be a category or classification system to represent knowled<Object>
+
+<Subject>2 shows the Aristotle ’s ten categories ( Aristotle , Categories , 1990 )<Subject>
+<use_to>to express<use_to>
+<Object>things or existence : Immanuel Kant presented a new successful categories system in <Object>
+
+<Subject>ontology <Subject>
+<definition>defines<definition>
+<Object>a set of representational primitives with which to model a domain of knowledge or discourse In the computer science perspective<Object>
+
+<Subject>The representational primitives of the ontology<Subject>
+<has_part>contain<has_part>
+<Object>classes , attributes ( properties ) and relationships between class<Object>
+
+<Subject>The representational primitives of the ontology<Subject>
+<use_to>are used to model<use_to>
+<Object>knowledge of particular application domai<Object>
+
+<Subject>The representational primitives of the ontology<Subject>
+<use_to>is regarded as for<use_to>
+<Object>conceptual analysis and domain modeling ( Guarino 1998<Object>
+
+<Subject>The representational primitives of the ontology<Subject>
+<use_to>is in support of<use_to>
+<Object>some sort knowledge representation model , being generated , analyzed , and processed by comput<Object>
+
+<Subject>The conceptualization<Subject>
+<definition>has been defined in<definition>
+<Object>AI researches ( Genesereth and Nilsson 1987 , Nilsson 1991 ) as a structure of < D , R<Object>
+
+<Subject>The structure<Subject>
+<definition>defines<definition>
+<Object>D as a domain and R as a set of relations on the domain <Object>
+
+<Subject>The representational primitives of the ontology<Subject>
+<use_to>are created as<use_to>
+<Object>domain dependent and relational bas<Object>
+
+<Subject>Ontology<Subject>
+<use_to>aids<use_to>
+<Object>the development of knowledge - based system , enabling knowledge sharing and reu<Object>
+
+<Subject>Ontology modeling in computer system<Subject>
+<the_same_thing>called<the_same_thing>
+<Object>computational ontology<Object>
+
+<Subject>Ontology modeling in computer system<Subject>
+<use_to>provides<use_to>
+<Object>a symbolic representation of knowledge objects , classes of objects , properties of objects , and the relationships among objects to explicitly represent knowledge about an application doma<Object>
+
+<Subject>ontology modeling<Subject>
+<has_part>simplified<has_part>
+<Object>into different kinds of mathematical definition , logical definition , or structural langua<Object>
+
+<Subject>Computational ontology<Subject>
+<represent>is generally represented in<represent>
+<Object>different kinds of abstraction : top - level ontologies , lexical ontologies and domain ontologi<Object>
+
+<Subject>Computational ontology<Subject>
+<use_to>conceptualization by defining<use_to>
+<Object>vocabulari<Object>
+
+<Subject>The vocabularies<Subject>
+<has_part>are organized by<has_part>
+<Object>formal relationships to create dependent linkag<Object>
+
+<Subject>Some of vocabularies<Subject>
+<has_part>are organized as<has_part>
+<Object>a tree structure and some of them are in gra<Object>
+
+<Subject>Top - level ontologies<Subject>
+<definition>are limited to<definition>
+<Object>concepts that are universal , generic , abstract and philosoph<Object>
+
+<Subject>Top - level ontologies<Subject>
+<the_same_thing>also known as<the_same_thing>
+<Object>upper ontologies<Object>
+
+<Subject>Top-level ontologies<Subject>
+<use_to>are generic enough to deal with<use_to>
+<Object>high - level abstraction and broad ranges of domain are<Object>
+
+<Subject>Top-level ontologies<Subject>
+<use_to>promotes<use_to>
+<Object>data interoperability , semantic information retrieval , automated reasoning and natural language processi<Object>
+
+<Subject>ontology for computer applicatio<Subject>
+<the_same_thing><the_same_thing>
+<Object><Object>
+
+<Subject>The standard upper ontology working group<Subject>
+<developer>develops<developer>
+<Object>a standard of upper ontology for computer application for data interoperability , information search and retrieval , natural language process ( NLP ) , e<Object>
+
+<Subject>Lexical ontology<Subject>
+<example>such as<example>
+<Object>OpenCyc and Ontology<Object>
+
+<Subject>SUM<Subject>
+<developer>creates<developer>
+<Object>a hierarchy of top - level things as ' Entities ' , and subsumes ' Physical ' and ' Abstract<Object>
+
+<Subject>SUMO<Subject>
+<has_part>divides<has_part>
+<Object>the ontology definition into three levels : the upper ontology ( the SUMO itself ) , the mid - level ontology ( MILO ) , and the bottomlevel domain ontolo<Object>
+
+<Subject>Mid - level ontology<Subject>
+<use_to>serves as<use_to>
+<Object>a bridge between the upper abstraction and the bottom - level rich details of domain ontologi<Object>
+
+<Subject>OpenCyc<Subject>
+<definition>is also<definition>
+<Object>upper - level ontolo<Object>
+
+<Subject>The entire Cyc ontology<Subject>
+<has_part>contains<has_part>
+<Object>hundreds of thousands of terms with relationship among the terms to model human consensus reali<Object>
+
+<Subject>The OpenCyc ontology<Subject>
+<has_part>contains<has_part>
+<Object>a knowledge server to serve for its Cyc knowledge base , an inference engine , and it also defines CyCL representation language for knowledge representati<Object>
+
+<Subject>The OpenCyc ontology<Subject>
+<definition>is<definition>
+<Object>an upper - ontology available for defining some lower level ontology knowledge such as domain specific knowledge , and domain specific facts and data as shown in the Figure<Object>
+
+<Subject>lexical ontology<Subject>
+<definition>is<definition>
+<Object>an ontology describing linguistic knowledge , and it tries to model the word meaning by ontological struc<Object>
+
+<Subject>Lexical ontology<Subject>
+<example>such as<example>
+<Object>WordNet and Miller<Object>
+
+<Subject>WordNet<Subject>
+<definition>is<definition>
+<Object>an English based system which organizes words on the basis of lexical taxonomical semantic relationships<Object>
+
+<Subject>WordNet<Subject>
+<drawback>is strictly limited to<drawback>
+<Object>English based application only<Object>
+
+<Subject>HowNet<Subject>
+<definition>is<definition>
+<Object>a Chinese - English bilingual lexical ontology describing the semantic relationship between concepts and the relationship between the attributes of concep<Object>
+
+<Subject>HowNet<Subject>
+<has_part>covers<has_part>
+<Object>over 65,000 concepts in Chinese that are equivalent to about 75,000 concepts in Engli<Object>
+
+<Subject>Lexical ontology<Subject>
+<use_to>is useful for<use_to>
+<Object>developing knowledge based system that may requires text analysis such as word sense disambiguation , word sense similarity calculation , words sense annotation and ontological annotati<Object>
+
+<Subject>WordNet WordNet<Subject>
+<definition>is originally designed as<definition>
+<Object>a lexical database of English word ( Miller 1998<Object>
+
+<Subject>WordNet<Subject>
+<use_to>could be used as<use_to>
+<Object>a lexical ontology to represent knowledge for computer text analysis and artificial intelligence application development , especially for many natural language related applicatio<Object>
+
+<Subject>WordNet<Subject>
+<use_to>is helpful to<use_to>
+<Object>model concept of words and its semantic relationsh<Object>
+
+<Subject>WordNet<Subject>
+<use_to>has been used for<use_to>
+<Object>various natural language text analyses such as word sense calculation and disambiguati<Object>
+
+<Subject>HowNet HowNet<Subject>
+<definition>is<definition>
+<Object>lexical database of Chinese word developed by Dong ( 1998<Object>
+
+<Subject>HowNet<Subject>
+<developer>developed by<developer>
+<Object>Dong ( 1998<Object>
+
+<Subject>HowNet<Subject>
+<definition>is<definition>
+<Object>a common - sense knowledge based for modeling inter - conceptual relations and interattribute relations of Chinese lexicons concepts and their English equivalents ( Dong and Dong 1998 , HowNet 2003<Object>
+
+<Subject>HowNet<Subject>
+<use_to>is aimed for<use_to>
+<Object>Chinese language processing by using its constructed knowledge based of Chinese wor<Object>
+
+<Subject>HowNet<Subject>
+<definition>defines<definition>
+<Object>its specific Sememe - Network to model the inter - conceptual relations between Chinese lexicons concep<Object>
+
+<Subject>grap<Subject>
+<definition><definition>
+<Object><Object>
+
+<Subject>lexical ontologies<Subject>
+<drawback><drawback>
+<Object>they are manually created in the entire process<Object>
+
+<Subject>A drawback of manual process<Subject>
+<definition>is hard for<definition>
+<Object>maintenance , such as adding new knowledge , revising and updating existing knowled<Object>
+
+<Subject>the defined knowledge of words is not permanently val<Subject>
+<reason>because<reason>
+<Object>The concept and usage of words are changing all the time<Object>
+
+<Subject>a continuous manually updating work and reconstruction are required and thus make the process ineffecti<Subject>
+<reason>because<reason>
+<Object>the concept and usage of words are changing all the time<Object>
+
+<Subject>A domain ontology<Subject>
+<definition>is tied to<definition>
+<Object>a specific domain which can be extended from upper onto<Object>
+
+<Subject>Domain ontology should be defined for specific domains<Subject>
+<reason>because<reason>
+<Object>even some huge ontology like Cyc , contains over ten thousands of concepts modeling the generic and high - level concepts , but is still not deep enough to express the conceptual and low - level of a specific domain ( a domain such as medical , science , financial , e<Object>
+
+<Subject>domain ontology is developed based on the concept formation in the particular domain of intere<Subject>
+<reason>in order to<reason>
+<Object>model a domain knowledge and make the information expressive and understandable by machines<Object>
+
+<Subject>Domain ontology is preferably built based on an available upper ontology<Subject>
+<reason>for the ease of<reason>
+<Object>mapping and integration between different domain ontologies created by different specialists or researchers , as to enhance sharing and usabili<Object>
+
+<Subject>Unlike upper ontology which is usually built for reasoning commonsense knowledge<Subject>
+<different>unlike<different>
+<Object>domain ontology is mainly built for reasoning a specific domain of knowled<Object>
+
+<Subject>domain ontology is more useful to build intelligent application<Subject>
+<reason>because<reason>
+<Object>computer application is usually developed for particular target domai<Object>
+
+<Subject>domain ontology is more useful to build intelligent application<Subject>
+<reason>because<reason>
+<Object>domain ontology is less abstract but more specific<Object>
+
+<Subject>Ontology engineering<Subject>
+<use_to>aims to define and create<use_to>
+<Object>domain ontologies rather than top - level ontologies and lexical ontologies , and the recent researches on domain ontology engineering will be reviewed in Chapter<Object>
+
