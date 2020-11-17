@@ -10,3 +10,6 @@
 2. ***OpenNLP*** toolkit to perform common natural language process tasks for question in QA system.
 3. ***JADE*** platform to implement the multi-agent framwork.
 4. ***MVC*** framework to achieve the GUI for user to input question and output answer.
+#### Source
+1. Download the ***[JADE platform](https://jade.tilab.com/download/jade/license/jade-download/?x=26&y=16)***
+2. Download the ***[OpenNLP](http://maven.tamingtext.com/opennlp-models/models-1.5/)***
