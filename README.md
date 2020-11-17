@@ -16,7 +16,7 @@
 #### Operation
 1. We use the book ***Knowledge Seeker - Ontology Modelling for Information Search and Management*** as the original text. In this project, we use the first chapter as an example. The file ***text2.doc*** shows the content of the book.
 2. Run the ***extraction.py***, we can extract the SPO triples from the text. The result after running the python file:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/result.jpg" width = "300" height = "200" alt="program result" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/result.jpg" width = "300" height = "200" alt="program result" align=center></image>
 And then the program will store the result to a structured document ***SPO_result.txt***:
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/structured%20document.png" width = "300" height = "200" alt="structured document" align=center />
 3. Use IntelliJ IDEA to open the ***Project1***, we can see the compiler interface:
