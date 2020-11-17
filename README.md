@@ -30,12 +30,12 @@ And then the program will store the result to a structured document ***SPO_resul
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/JADE%20configuration.png" width = "300" height = "200"></image>
 7. Before we run the project, we should congifure the running object. We can choose to run the Agent_management to manipulate the multiple agents. Add a new application and set the Program arguments:
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/Agent_management.png" width = "300" height = "200"></image><br/>
-And we can see the running result:
+And we can see the running result:<br/>
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/agent%20management.jpg" width = "300" height = "200"></image><br/>
 Or we can choose to run the Extraction_agent individually. Similarly, add a new application and set the Program arguments:<br/>
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/extraction_agent.png" width = "300" height = "200"></image><br/>
 We can see the instruction for finishing extraction in the IDEA terminal after running the Extraction_agent successfully.
-Or we can choose to run the QA_agent individually. Similarly, add a new application and set the Program arguments:
+Or we can choose to run the QA_agent individually. Similarly, add a new application and set the Program arguments:<br/>
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/QA_agent.png" width = "300" height = "200"></image><br/>
-Finally, we can see the GUI chat window:
+Finally, we can see the GUI chat window:<br/>
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/GUI.png" width = "300" height = "200"></image>
