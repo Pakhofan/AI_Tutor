@@ -5,6 +5,7 @@
 2. ***JADE platform*** contain the source code for the project. It is a java-based project implemented in IntelliJ IDEA.
 3. ***extraction.py*** is a python file to extract SPO triples from the original text to a structured document.
 4. ***Knowledge*** is the NEO4J graphical database to store and maintain the knowledge information.
+5. ***Program image*** is the illustrations of the project.
 #### Main technology
 1. ***Spacy*** toolkit to perform common natural language process tasks for knowledge generation.
 2. ***OpenNLP*** toolkit to perform common natural language process tasks for question in QA system.
@@ -20,21 +21,21 @@
 And then the program will store the result to a structured document ***SPO_result.txt***:
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/structured%20document.png" width = "300" height = "200"></image>
 3. Use IntelliJ IDEA to open the ***Project1***, we can see the compiler interface:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/compiler%20interface.png" width = "300" height = "200" alt="structured document" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/compiler%20interface.png" width = "300" height = "200"></image>
 4. To launch the project, we need to configure the external libraries. Firstly, we configure the NEO4J. Import the jar files in ***neo4j-community-3.5.21/lib/*** to the project structure:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/neo4j%20configuration.png" width = "300" height = "200" alt="structured document" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/neo4j%20configuration.png" width = "300" height = "200"></image>
 5. Then we configure OpenNLP. Similarly, import the ***opennlp-tools-1.9.2.jar*** in ***Document/apache-opennlp-1.9.2/lib/*** to the project structure:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/OpenNLP%20configuration.png" width = "300" height = "200" alt="structured document" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/OpenNLP%20configuration.png" width = "300" height = "200"></image>
 6. Then we configure JADE platform. Similarly, import the ***lib*** in ***Document/JADE-all-4.5.0/JADE-bin-4.5.0/jade/*** to the project structure:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/JADE%20configuration.png" width = "300" height = "200" alt="structured document" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/JADE%20configuration.png" width = "300" height = "200"></image>
 7. Before we run the project, we should congifure the running object. We can choose to run the Agent_management to manipulate the multiple agents. Add a new application and set the Program arguments:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/Agent_management.png" width = "300" height = "200" alt="structured document" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/Agent_management.png" width = "300" height = "200"></image>
 And we can see the running result:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/agent%20management.jpg" width = "300" height = "200" alt="structured document" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/agent%20management.jpg" width = "300" height = "200"></image>
 Or we can choose to run the Extraction_agent individually. Similarly, add a new application and set the Program arguments:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/extraction_agent.png" width = "300" height = "200" alt="structured document" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/extraction_agent.png" width = "300" height = "200"></image>
 We can see the instruction for finishing extraction in the IDEA terminal after running the Extraction_agent successfully.
 Or we can choose to run the QA_agent individually. Similarly, add a new application and set the Program arguments:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/QA_agent.png" width = "300" height = "200" alt="structured document" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/QA_agent.png" width = "300" height = "200"></image>
 Finally, we can see the GUI chat window:
-<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/GUI.png" width = "300" height = "200" alt="structured document" align=center />
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/GUI.png" width = "300" height = "200"></image>
