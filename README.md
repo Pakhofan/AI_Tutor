@@ -39,3 +39,14 @@ Or we can choose to run the QA_agent individually. Similarly, add a new applicat
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/QA_agent.png" width = "300" height = "200"></image><br/>
 Finally, we can see the GUI chat window:<br>
 <img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/GUI.png" width = "300" height = "200"></image>
+8. We can also see how our knowledge looks like in NEO4J. After download the files ***Knowledge/neo4j-community-3.5.21/***  to your device, use ***CMD*** to reach where the file ***bin*** locates. The interior of ***bin*** is:<br>
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/bin.png" width = "300" height = "200"></image><br>
+And then use command ***neo4j console*** to launch NEO4J:<br>
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/launch%20neo4j.png" width = "300" height = "200"></image><br>
+We can get the address to see the graphical interface from the CMD windows(Mine is ***http://localhost:7474/***). Use web browser to open this address, we can see the knowledge:<br>
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/knowledge.png" width = "300" height = "200"></image><br>
+However, if it is your first time to open NEO4J, you may see this page and you need to input the usename and password. Initial usename and password are both ***neo4j***:<br>
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/initial.png" width = "300" height = "200"></image><br>
+Then you need to set the new usename and password:<br>
+<img src="https://raw.githubusercontent.com/Pakhofan/AI_Tutor/main/Program%20image/new.png" width = "300" height = "200"></image><br>
+Finally you can see the knowledge mentioned earily.
