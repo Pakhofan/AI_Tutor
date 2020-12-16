@@ -73,8 +73,17 @@ public class Model {
     }
 
     static String keywords[][][]={
-            {{"What is","What is the definition of","What is the meaning of"},
+            {{"What is","What is the definition of","What is the meaning of","What is xxx mean?"},
                     {"definition"}
+            },
+            {{"How a computer understand and process xxx"},
+                    {"reason"}
+            },
+            {{"How xxx works", "How xxx work","How do xxx work", "How does xxx work"},
+                    {"method"}
+            },
+            {{"How to express xxx"},
+                    {"use_to"}
             },
             {{"Why the","What is the reason of","Why the xxx is xxx"},
                     {"reason"}
@@ -147,6 +156,8 @@ public class Model {
         try(Transaction tx=db.beginTx()){
             ArrayList<String> relationList=new ArrayList<String>();
             ArrayList<String> relationList_complex=new ArrayList<String>();
+            ArrayList<String> result1=new ArrayList<String>();
+            ArrayList<String> result2=new ArrayList<String>();
             StringBuilder sb=new StringBuilder();
             sb.append("MATCH (n1) WHERE n1.name=~"+"\""+"(?i)"+entity+"\"");
             sb.append("MATCH p=(n1)-[r]->(n2) WHERE type(r)="+"\""+relation+"\"");
@@ -159,7 +170,9 @@ public class Model {
             sb_complex.append("RETURN r.content");
             Result relationContent2=db.execute(sb_complex.toString());
             if(relationContent.hasNext()==false && relationContent2.hasNext()==false){
-                System.out.println("Sorry! I don't know!");
+                result1.add("Sorry, I don't know!");
+                result1.add("Do you mean "+"\"" +"What is the definition of "+entity+"?"+"\"");
+                return result1;
             }
             else if(relationContent.hasNext()==true && relationContent2.hasNext()==false){
                 while (relationContent.hasNext()) {
@@ -182,8 +195,6 @@ public class Model {
 
             ArrayList<String> entity2List=new ArrayList<String>();
             ArrayList<String> entity2List_complex=new ArrayList<String>();
-            ArrayList<String> result1=new ArrayList<String>();
-            ArrayList<String> result2=new ArrayList<String>();
             StringBuilder sb2=new StringBuilder();
             sb2.append("MATCH (n1) WHERE n1.name=~"+"\""+"(?i)"+entity+"\"");
             sb2.append("MATCH p=(n1)-[r]->(n2) WHERE type(r)="+"\""+relation+"\"");
@@ -196,7 +207,9 @@ public class Model {
             sb2_complex.append("RETURN n2.name");
             Result Entity2_complex=db.execute(sb2_complex.toString());
             if(Entity2.hasNext()==false &&Entity2_complex.hasNext()==false){
-                System.out.println("Sorry! I don't know!");
+                result1.add("Sorry, I don't know!");
+                result1.add("Do you mean "+"\"" +"What is the definition of "+entity+"?"+"\"");
+                return result1;
             }
             if(Entity2.hasNext()==true &&Entity2_complex.hasNext()==false) {
                 while (Entity2.hasNext()) {
@@ -323,10 +336,13 @@ public class Model {
         //String[] EntityList={};
         ArrayList<String> EntityList=new ArrayList<String>();
         for(int i=0;i< tokens.length;i++){
-            if(tags[i].equals("NN") || tags[i].equals("NNP") || tags[i].equals("NNPS") || tags[i].equals("NNS")){
-                //System.out.println(tokens[i]);
-                //insert(EntityList,tokens[i]);
-                EntityList.add(tokens[i]);
+            if(tags[i].equals("NN") || tags[i].equals("NNP") || tags[i].equals("NNPS") || tags[i].equals("NNS") || tokens[i].equals("in") || tokens[i].equals("knowledge") || tokens[i].equals("Knowledge") ||tokens[i].equals("top") ||tokens[i].equals("Top")||tokens[i].equals("-")||tokens[i].equals("domain")||tokens[i].equals("Domain")||tokens[i].equals("engineer")||tokens[i].equals("computational")||tokens[i].equals("lexical")){
+                if(tokens[i].equals("works") || tokens[i].equals("work") || tokens[i].equals("mean") || tokens[i].equals("means")|| tokens[i].equals("definition")){
+                    continue;
+                }
+                else{
+                    EntityList.add(tokens[i]);
+                }
             }
         }
         return EntityList;
@@ -361,3 +377,4 @@ public class Model {
         return tags;
     }
 }
+
