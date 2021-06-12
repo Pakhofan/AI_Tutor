@@ -1,0 +1,29 @@
+<!--pages/home/home.wxml-->
+<view style="display:flex;flex-direction:row;margin-bottom:10px;">
+    <cover-image src="../../images/robot.jpg" class="robot" style="margin-left:15px;"></cover-image>
+    <text class="message_out">My pleasure to serve for you.</text>
+  </view>
+<block wx:for="{{message_in}}" wx:key="index">
+  <view style="display:flex;flex-direction:row;margin-bottom:10px;margin-left:55px;">
+    <text class="message_in">{{item}}</text>
+    <cover-image src="../../images/user.jpg" class="robot" style="margin-left:5px"></cover-image>
+  </view>
+  <view style="display:flex;flex-direction:row;margin-bottom:10px;">
+    <cover-image src="../../images/robot.jpg" class="robot" style="margin-left:15px;"></cover-image>
+    <text class="message_out">{{message_out[index]}}</text>
+  </view>
+</block>
+<view>
+  <form catchsubmit="formSubmit">
+    <view class="send">
+      <input class="input" focus="true" name="question" value='{{input_tem}}'/>
+      <button form-type="submit" type="primary" size="mini" style="padding-top:8px;padding-left:8px;width:70px;">
+        <font>Send</font>
+      </button>
+      <image src="../../images/record.svg" class="record" bindtouchstart="start_record" bindtouchend="stop_record"/>
+    </view>
+  </form>
+</view>
+
+<view class="mask" wx:if="{{recording}}"></view>
+<image src="../../images/recording.svg" class="recording" mode="widthFix" wx:if="{{recording}}" />

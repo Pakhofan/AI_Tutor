@@ -1,0 +1,59 @@
+/* pages/home/home.wxss */
+.robot{
+  width: 50px;
+  height: 50px;
+  border-radius:90%;
+}
+.record{
+  width: 60px;
+  height: 50px;
+  border-radius:90%;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.recording{
+  width: 50%;
+  height: 50%;
+  margin:100px auto;
+}
+.send{
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  position:fixed; 
+  bottom:0;
+  width: 100%;
+}
+.input{
+  background-color: white;
+  width: 100%;
+}
+input{
+  height: 3rem;
+}
+.message_out{
+  background-color: white;
+  border-radius: 5px;
+  width: 230px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  display: -webkit-box;
+  color:#000000;
+  line-height: 40rpx;
+  word-break: break-all;
+  -webkit-box-orient: vertical;
+}
+.message_in{
+  background-color: #07C160;
+  border-radius: 5px;
+  width: 230px;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  display: -webkit-box;
+  color:white;
+  line-height: 40rpx;
+  word-break: break-all;
+  -webkit-box-orient: vertical;
+}
