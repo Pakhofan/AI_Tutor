@@ -1,0 +1,2752 @@
+<Subject>the 17th century<Subject>
+<Object>the entire animal kingdom<Object>
+<relation>example<relation>
+<line>Without computers, in the 17th century, we could classify the entire animal kingdom... there was this idea of the speciation, right?<line>
+
+<Subject>a search engine<Subject>
+<Object>the mathematical speciation<Object>
+<relation>use_to<relation>
+<line>And now, all a search engine is essentially the mathematical speciation of ideas and these things really derive from the way that language is used and the way words relate.<line>
+
+<Subject>Mr. Joshua Cohen Abstract Ontology<Subject>
+<Object>a fundamental form<Object>
+<relation>use_to<relation>
+<line>Mr. Joshua Cohen Abstract Ontology is a fundamental form of knowledge representation of the real world.<line>
+
+<Subject>a computer science perspective<Subject>
+<Object>ontology<Object>
+<relation>use_to<relation>
+<line>From a computer science perspective, ontology defines a set of representational primitives to model a domain of knowledge.<line>
+
+<Subject>A well-constructed ontology<Subject>
+<Object>knowledge-based information search<Object>
+<relation>example<relation>
+<line>A well-constructed ontology can help to develop knowledge-based information search and management system such as search engine and content management system in a more effective way.<line>
+
+<Subject>AI technology<Subject>
+<Object>such innovative technology<Object>
+<relation>contain<relation>
+<line>We explore this challenging AI technology and study how such innovative technology can be used in our daily activities.<line>
+
+<Subject>The first part<Subject>
+<Object>the chapter<Object>
+<relation>drawback<relation>
+<line>The first part of the chapter reviews traditional search engines, their main components, basic architecture, and major shortcomings in terms of system and user perspectives.<line>
+
+<Subject>The second part<Subject>
+<Object>the chapter<Object>
+<relation>example<relation>
+<line>The second part of the chapter examines ontological-based search engine with the basic concepts of knowledge and ontology such as ontology engineering, semantic web; how to use ontology graph to represent concepts and ideas followed by system architecture.<line>
+
+<Subject>several major OSE<Subject>
+<Object>content management system<Object>
+<relation>contain<relation>
+<line>It covers several major OSE applications include content management system, news retrieval and ontological search engine, and web ontology learning systems.World Wide Web provides a new era of information sharing and worldwide communication since the 1990s.<line>
+
+<Subject>a monthly basis<Subject>
+<Object>overflooding<Object>
+<relation>example<relation>
+<line>There were over millions of new websites created on a monthly basis with overflooding of data almost without bound in the past 30 years.<line>
+
+<Subject>a software tool<Subject>
+<Object>the web<Object>
+<relation>example<relation>
+<line>We need a software tool to help us search over the web and extract useful information over this unbounded territory, such a tool is called search engine .<line>
+
+<Subject>search<Subject>
+<Object>Google<Object>
+<relation>example<relation>
+<line>Commonly used search engines include Google, Bing, and Baidu are mainly based on keywords as the searching method which always resulted in related search results.<line>
+
+<Subject>A new kind<Subject>
+<Object>search engine<Object>
+<relation>reason<relation>
+<line>A new kind of search engine is strongly needed.<line>
+
+<Subject>AI technology<Subject>
+<Object>an ontologicalbased search engine<Object>
+<relation>reason<relation>
+<line>With the advancements in AI technology, an ontologicalbased search engine which is based on the literal meaning of the whole web document to provide search results seems to provide a more efficient and sensible solution.<line>
+
+<Subject>Ontology<Subject>
+<Object>a fundamental form<Object>
+<relation>example<relation>
+<line>Ontology is a fundamental form of knowledge representation of the real world.<line>
+
+<Subject>a computer science perspective<Subject>
+<Object>ontology<Object>
+<relation>use_to<relation>
+<line>From a computer science perspective, ontology defines a set of representational primitives to model a domain of knowledge.<line>
+
+<Subject>A well-constructed ontology<Subject>
+<Object>knowledge-based information search<Object>
+<relation>example<relation>
+<line>A well-constructed ontology can help to develop knowledge-based information search and management system, such as a search engine and content management system in a more effective way.<line>
+
+<Subject>AI technology<Subject>
+<Object>this chapter<Object>
+<relation>contain<relation>
+<line>We will explore this challenging AI technology in this chapter and study how such innovative technology can be used in our daily activities.<line>
+
+<Subject>The first part<Subject>
+<Object>the chapter<Object>
+<relation>drawback<relation>
+<line>The first part of the chapter will review traditional search engines, their main components, basic architecture, and major shortcomings in terms of system and user perspectives.<line>
+
+<Subject>The second part<Subject>
+<Object>the chapter<Object>
+<relation>contain<relation>
+<line>The second part of the chapter will examine ontologicalbased search engine with the basic concepts of knowledge and ontology such as ontology engineering, semantic web; how to use ontology graph to represent concepts and ideas followed by the system architecture.<line>
+
+<Subject>several major OSE<Subject>
+<Object>content management system<Object>
+<relation>contain<relation>
+<line>It will cover several major OSE applications that include content management system, news retrieval and ontological search engine, and web ontology learning systems.<line>
+
+<Subject>Digital information<Subject>
+<Object>worldwide knowledge<Object>
+<relation>example<relation>
+<line>Digital information and worldwide knowledge are stored and managed in specific systems prior to the 1990s.<line>
+
+<Subject>Information<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>Information sharing between different individuals and organizations are limited to propriety networks and systems.<line>
+
+<Subject>The rise<Subject>
+<Object>Internet technology<Object>
+<relation>contain<relation>
+<line>The rise of Internet technology, a new idea so-called World Wide Web was proposed by computer scientist Sir Tim Berners-Lee in the 1990s.<line>
+
+<Subject>Web<Subject>
+<Object>new way<Object>
+<relation>example<relation>
+<line>Web offers a completely new way of free information between any computer systems worldwide with browser ––a simple but powerful software for us to surf any websites, read and enjoy the sharing of information and knowledge.<line>
+
+<Subject>web<Subject>
+<Object>government repository<Object>
+<relation>contain<relation>
+<line>There had been billions of web servers established over the past 25 years ranging from personal blogs to sophisticated corporate websites and government repository archives for access via this extraordinary invention.<line>
+
+<Subject>Netcraft<Subject>
+<Object>an Internet monitoring company<Object>
+<relation>reason<relation>
+<line>Netcraft, an Internet monitoring company that has tracked web growth since 1995, reported that there were 215,675,903 websites with domain names and content in 2009, compared to merely 19,732 websites in August 1995.<line>
+
+<Subject>the World Wide Web<Subject>
+<Object>April<Object>
+<relation>contain<relation>
+<line>There are over 1.5 billion websites on the World Wide Web as of April 20, 2020 with less than 200 million are active.<line>
+
+<Subject>an astonishing rate<Subject>
+<Object>a daily basis<Object>
+<relation>example<relation>
+<line>However, the numbers of websites are still growing at an astonishing rate on a daily basis.<line>
+
+<Subject>Figure<Subject>
+<Object>website growth<Object>
+<relation>contain<relation>
+<line>Figure 7.1 shows worldwide website growth in the past 20 years.<line>
+
+<Subject>the problem<Subject>
+<Object>information<Object>
+<relation>drawback<relation>
+<line>So, the problem is: Now can we look for information we want in this ocean of information source––search engine?<line>
+
+<Subject>A search engine<Subject>
+<Object>a GUI-based software system<Object>
+<relation>example<relation>
+<line>A search engine is a GUI-based software system that is designed to carry out web search over the Internet.<line>
+
+<Subject>the main function<Subject>
+<Object>search engine<Object>
+<relation>example<relation>
+<line>Technically speaking, the main function of search engine is to search the web in a systematic way for specific information by the user in a textual way, so-called search query .<line>
+
+<Subject>The search<Subject>
+<Object>a line<Object>
+<relation>example<relation>
+<line>The search results are presented in a line of results generally, often referred to as search engine results pages.<line>
+
+<Subject>The information<Subject>
+<Object>the combination<Object>
+<relation>contain<relation>
+<line>The information may be the combination of hyperlinks to web pages.<line>
+
+<Subject>contain<Subject>
+<Object>any multimedia information<Object>
+<relation>contain<relation>
+<line>which contain images, videos, and even animations of any multimedia information.<line>
+
+<Subject>Some search<Subject>
+<Object>repository<Object>
+<relation>example<relation>
+<line>Some search engines can even mine data available in databases or open directories and repository.<line>
+
+<Subject>Beside<Subject>
+<Object>textual search<Object>
+<relation>example<relation>
+<line>Beside textual search, search engines such as Google even provide image search–– web search by images or photos.<line>
+
+<Subject>web<Subject>
+<Object>these search<Object>
+<relation>example<relation>
+<line>It is different from web directories which are maintained by human editors only, these search engines also maintain realtime information by running an algorithm on a web crawler to be studied in the following section.<line>
+
+<Subject>search engine<Subject>
+<Object>Web Wanderer<Object>
+<relation>contain<relation>
+<line>1993: The first widely acclaimed search engine, Web Wanderer appeared.<line>
+
+<Subject>the growth<Subject>
+<Object>the web<Object>
+<relation>use_to<relation>
+<line>Created to measure the growth of the web, it performed its job through 1997.<line>
+
+<Subject>this search engine<Subject>
+<Object>the web today<Object>
+<relation>contain<relation>
+<line>Statistics compiled by this search engine are still available on the web today.<line>
+
+<Subject>WebCrawler<Subject>
+<Object>the scene<Object>
+<relation>contain<relation>
+<line>1994: WebCrawler came into the scene.<line>
+
+<Subject>The original WebCrawler database<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>The original WebCrawler database contained 6,000 websites only.<line>
+
+<Subject>AOL<Subject>
+<Object>WebCrawler<Object>
+<relation>example<relation>
+<line>AOL bought WebCrawler in 1995 but sold it to Excite two years later.<line>
+
+<Subject>Infospace<Subject>
+<Object>its current owner<Object>
+<relation>developer<relation>
+<line>Infospace, its current owner, bought WebCrawler when Excite declared bankruptcy.<line>
+
+<Subject>Another powerhouse<Subject>
+<Object>the Lycos search engine<Object>
+<relation>use_to<relation>
+<line>1994: Another powerhouse, the Lycos search engine , was launched with 54,000 indexed documents.<line>
+
+<Subject>The Lycos search engine<Subject>
+<Object>a player today<Object>
+<relation>example<relation>
+<line>The Lycos search engine is still a player today but changed hands several times.<line>
+
+<Subject>Currently<Subject>
+<Object>a subsidiary<Object>
+<relation>contain<relation>
+<line>Currently is a subsidiary of Indian-based company Ybrant Digital .<line>
+
+<Subject>AltaVista<Subject>
+<Object>the first search engine<Object>
+<relation>example<relation>
+<line>1995: AltaVista was the first search engine to include multilingual search capabilities.<line>
+
+<Subject>AltaVista<Subject>
+<Object>Yahoo<Object>
+<relation>example<relation>
+<line>AltaVista became Yahoo's property eventually.<line>
+
+<Subject>AltaVista<Subject>
+<Object>the search king<Object>
+<relation>use_to<relation>
+<line>AltaVista was the search king until Google .<line>
+
+<Subject>Yahoo<Subject>
+<Object>own search site<Object>
+<relation>contain<relation>
+<line>Their services shut down in 2013 and domain redirected to Yahoo's own search site.<line>
+
+<Subject>Alphabet Inc<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>1998: Alphabet Inc .<line>
+
+<Subject>Larry Page<Subject>
+<Object>Sergey Brin<Object>
+<relation>contain<relation>
+<line>co-founders Larry Page and Sergey Brin introduced Google to the world which quickly jumped to the top of search engine rankings.<line>
+
+<Subject>The name<Subject>
+<Object>the word googol<Object>
+<relation>use_to<relation>
+<line>The name came from the word googol , which is the name for number 1 followed by 100 zeroes.<line>
+
+<Subject>Google<Subject>
+<Object>a part<Object>
+<relation>use_to<relation>
+<line>2006: Google became a part of our culture that several dictionaries MerriamWebster and Oxford English Dictionary included google as a verb.<line>
+
+<Subject>Microsoft<Subject>
+<Object>Bing<Object>
+<relation>example<relation>
+<line>2009: Microsoft launched Bing to introduce the use of suggested searches along with search results.<line>
+
+<Subject>the first time<Subject>
+<Object>history<Object>
+<relation>contain<relation>
+<line>2014: More searches were performed using mobile devices than using desktop browsers for the first time in history.<line>
+
+<Subject>half<Subject>
+<Object>Google<Object>
+<relation>contain<relation>
+<line>2015: Over half of Google searches were performed using mobile devices.<line>
+
+<Subject>Google<Subject>
+<Object>its mobile search<Object>
+<relation>reason<relation>
+<line>Google announced that they would commence using mobile-friendly factors in its mobile search results, meaning they list sites that were not mobile-friendly lower in mobile searches.<line>
+
+<Subject>Figure<Subject>
+<Object>search<Object>
+<relation>contain<relation>
+<line>Figure 7.2 shows worldwide search engines ranking as of today.<line>
+
+<Subject>Google<Subject>
+<Object>the world<Object>
+<relation>contain<relation>
+<line>Google is the world's most used search engine as of 2020 with a market share over 90%.<line>
+
+<Subject>used search engine<Subject>
+<Object>the Web<Object>
+<relation>use_to<relation>
+<line>As one can see, it is still the most used search engine on the Web since the very beginning.<line>
+
+<Subject>Google<Subject>
+<Object>%<Object>
+<relation>example<relation>
+<line>Google now enjoys greater than 50% of total search engine traffic.<line>
+
+<Subject>a top Google ranking<Subject>
+<Object>traffic<Object>
+<relation>contain<relation>
+<line>This means that a top Google ranking will yield more traffic to the site than a top ranking with any other search engine.<line>
+
+<Subject>Google<Subject>
+<Object>popularity<Object>
+<relation>reason<relation>
+<line>Google's popularity is due largely to speed and search results quality.<line>
+
+<Subject>a worldwide network<Subject>
+<Object>house Google<Object>
+<relation>contain<relation>
+<line>Both are possible because of a worldwide network of more than 1 million servers which house Google's index .<line>
+
+<Subject>The sheer number<Subject>
+<Object>speed<Object>
+<relation>example<relation>
+<line>The sheer number of servers and speed at which they communicate with each other is unparalleled in the search industry.<line>
+
+<Subject>AI<Subject>
+<Object>cloud computing<Object>
+<relation>example<relation>
+<line>With the advancements in AI, deep networks, cloud computing, and big data, today's competition between search engine corporations become even more challenging and severe than before.<line>
+
+<Subject>different search<Subject>
+<Object>their own system architecture<Object>
+<relation>example<relation>
+<line>Although different search engines have their own system architecture, basically, a typical search engine consists of five main components: (1) Crawler Module ; (2) Page Repository Module ; (3) Indexing Module ; (4) Query Module; and (5) Ranking Module.<line>
+
+<Subject>a classical search engine<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>Figures 7.3 shows the main components of a classical search engine.<line>
+
+<Subject>Crawler Module A web crawler<Subject>
+<Object>a web spider<Object>
+<relation>example<relation>
+<line>Crawler Module A web crawler, also known as a web spider, spider bot, web bot , or simply a crawler are computer programs that scan the Web, read everything they find.<line>
+
+<Subject>A typical web crawler<Subject>
+<Object>page<Object>
+<relation>example<relation>
+<line>A typical web crawler scans web page to see what words they contain and where those words are used.<line>
+
+<Subject>The crawler<Subject>
+<Object>a giant index<Object>
+<relation>example<relation>
+<line>The crawler then turns its findings into a giant index and stored into the index database for further processing.<line>
+
+<Subject>traditional document<Subject>
+<Object>college library<Object>
+<relation>example<relation>
+<line>Compared with traditional document collections which reside in physical warehouses such as college library, the information available on the Web is distributed over the Internet.<line>
+
+<Subject>fact<Subject>
+<Object>this huge repository<Object>
+<relation>contain<relation>
+<line>In fact, this huge repository is growing rapidly without any geographical constraints.<line>
+
+<Subject>Hence<Subject>
+<Object>a component<Object>
+<relation>reason<relation>
+<line>Hence, a component used crawler is employed by a search engine which visits web pages, collect, and categorize them.<line>
+
+<Subject>The truth<Subject>
+<Object>different search<Object>
+<relation>example<relation>
+<line>The truth is, one of the major aspects for different search engines performance is the algorithm being used in the crawler program.<line>
+
+<Subject>crawler module<Subject>
+<Object>important module<Object>
+<relation>reason<relation>
+<line>In other words, crawler module is the most important module for the search engine nowadays.<line>
+
+<Subject>Page Repository Module<Subject>
+<Object>The downloaded web<Object>
+<relation>contain<relation>
+<line>Page Repository Module The downloaded web pages are stored temporarily in a search engine local storage called page repository .<line>
+
+<Subject>the repository<Subject>
+<Object>the indexing module<Object>
+<relation>example<relation>
+<line>The new pages remain in the repository until they are sent to the indexing module where their vital information is used to create a compressed version of the page.<line>
+
+<Subject>The retrieved web<Subject>
+<Object>multimedia information<Object>
+<relation>contain<relation>
+<line>The retrieved web pages contain various types of multimedia information including images, photos, videos, and even embedded programs instead of textual information most of the time.<line>
+
+<Subject>a separated repository store<Subject>
+<Object>order<Object>
+<relation>example<relation>
+<line>For most search engines, these additional resources are either discarded or temporarily stored in a separated repository store in order not to affect the system performance of the search engine.<line>
+
+<Subject>Module<Subject>
+<Object>The main function<Object>
+<relation>example<relation>
+<line>Indexing Module The main function of the indexing module is to process each newly uncompressed web page from page repository , extract suitable descriptors, and then generate a compressed description of the web page.<line>
+
+<Subject>The compressed web page<Subject>
+<Object>a databank<Object>
+<relation>contain<relation>
+<line>The compressed web page is stored in a databank, which can be accessed through a browser if necessary.<line>
+
+<Subject>The index databank<Subject>
+<Object>the compressed information<Object>
+<relation>contain<relation>
+<line>The index databank is used to store all the compressed information for each web page being crawled.<line>
+
+<Subject>index<Subject>
+<Object>content index<Object>
+<relation>example<relation>
+<line>There are basically 3 index types: content index, structure index, and specialpurpose index .<line>
+
+<Subject>The content index<Subject>
+<Object>important index<Object>
+<relation>example<relation>
+<line>The content index is the most important index that contains all keywords, title, and anchor texts being crawled in each web page and they are stored in a compressed form using an inverted file structure.<line>
+
+<Subject>The structure index<Subject>
+<Object>the link information<Object>
+<relation>contain<relation>
+<line>The structure index is used to store the link information of the web page also in compressed form.<line>
+
+<Subject>The special-purpose index<Subject>
+<Object>photo<Object>
+<relation>use_to<relation>
+<line>The special-purpose index stores all nontextual indexes such as photo, images, multimedia, and even pdf file indexes, which will be used for specific query tasks, e.g.<line>
+
+<Subject>image search<Subject>
+<Object>Google<Object>
+<relation>use_to<relation>
+<line>image search in Google .<line>
+
+<Subject>the Web<Subject>
+<Object>storage<Object>
+<relation>example<relation>
+<line>Web crawlers crawl the Web constantly, bring back new and updated pages for indexing and storage.<line>
+
+<Subject>their corresponding<Subject>
+<Object>web<Object>
+<relation>example<relation>
+<line>These 3 modules and their corresponding data files are operated independently to the queries sent by web users.The main function of the query module is some sort of NLP module to process the user's search query from natural language query type into the format that can be comprehensible by search engine and consult various indices in order to answer the query.<line>
+
+<Subject>instance<Subject>
+<Object>the query module<Object>
+<relation>example<relation>
+<line>For instance, the query module consults content index and its inverted file to find which pages contain the query terms, i.e.<line>
+
+<Subject>the ranking module<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>the relevant pages which are then passed to the ranking module.<line>
+
+<Subject>Module<Subject>
+<Object>The main function<Object>
+<relation>example<relation>
+<line>Ranking Module The main function of the ranking module is to rank web pages according to the matching degree of the user's query.<line>
+
+<Subject>traditional search<Subject>
+<Object>the term frequency<Object>
+<relation>example<relation>
+<line>The ranking criteria in traditional search engines include: the term frequency, popularity score, content score, etc.<line>
+
+<Subject>process<Subject>
+<Object>the ranking module<Object>
+<relation>example<relation>
+<line>After ranking process is finished, the ranking module will generate an ordered web pages list according to matching degree.<line>
+
+<Subject>The ranking module<Subject>
+<Object>fact<Object>
+<relation>reason<relation>
+<line>The ranking module is in fact the most important process to evaluate whether a search engine is good or bad .<line>
+
+<Subject>A search engine<Subject>
+<Object>common sense<Object>
+<relation>reason<relation>
+<line>A search engine by common sense is good not only because it can search and results at speed.<line>
+
+<Subject>close result web<Subject>
+<Object>the user<Object>
+<relation>contain<relation>
+<line>More importantly, it should show how close result web pages are related to the user's query.<line>
+
+<Subject>a user<Subject>
+<Object>search engine<Object>
+<relation>example<relation>
+<line>When a user tries to search via search engine every time, there will be over thousands or sometimes up to millions of query results in reality.<line>
+
+<Subject>a critical issue<Subject>
+<Object>a search engine<Object>
+<relation>reason<relation>
+<line>So, how to rank query results is a critical issue to determine whether a search engine is effective or not.<line>
+
+<Subject>The page ranking<Subject>
+<Object>the content score<Object>
+<relation>example<relation>
+<line>The page ranking is computed using rules by combining two scores; the content score and the popularity score.<line>
+
+<Subject>example<Subject>
+<Object>query word<Object>
+<relation>example<relation>
+<line>For example, many web search engines give pages, using query word in the title, as a higher content score as compared to pages containing the query word in the page body.<line>
+
+<Subject>The popularity score<Subject>
+<Object>the analysis<Object>
+<relation>use_to<relation>
+<line>The popularity score is determined from the analysis of Web's hyperlink structure.<line>
+
+<Subject>The content score<Subject>
+<Object>a popularity score<Object>
+<relation>example<relation>
+<line>The content score is combined with a popularity score to determine an overall score for each relevant page.<line>
+
+<Subject>The set<Subject>
+<Object>the query module<Object>
+<relation>contain<relation>
+<line>The set of relevant pages resulting from the query module is then presented to the user in order of overall scores.<line>
+
+<Subject>Google search engine<Subject>
+<Object>web crawling<Object>
+<relation>example<relation>
+<line>Google search engine uses multiple machines for web crawling to speed up its search engine efficiency.<line>
+
+<Subject>Google search engine crawler process<Subject>
+<Object>URL server<Object>
+<relation>example<relation>
+<line>Google search engine crawler process consists of five components: (1) URL server in Google search engine reads URLs out of a file and forward them to multiple crawler processes.<line>
+
+<Subject>Each crawler process<Subject>
+<Object>a different crawling machine<Object>
+<relation>example<relation>
+<line>(2) Each crawler process operates on a different crawling machine to speed up the crawling process.<line>
+
+<Subject>asynchronous I/O<Subject>
+<Object>web<Object>
+<relation>example<relation>
+<line>It uses asynchronous I/O to fetch data from up to 300 web servers in parallel in a typical multithreading crawling process normally as shown in Fig.<line>
+
+
+<Subject>a single store server process<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>(3) The crawlers transmit downloaded pages to a single store server process, which compress the pages and store them to disk.<line>
+
+<Subject>The indexer process<Subject>
+<Object>index storage<Object>
+<relation>example<relation>
+<line>(4) The indexer process reads web pages from index storage, then extracts links from pages and saves them in a separate index storage.<line>
+
+<Subject>A URL Resolver process<Subject>
+<Object>the link file<Object>
+<relation>example<relation>
+<line>(5) A URL Resolver process reads the link file, analyzes URLs contained therein, and saves the absolute URLs to the disk file read by the URL server.Besides, Google search engine uses multiple crawlers to find different types of information.<line>
+
+
+<Subject>• Googlebot ––to index content<Subject>
+<Object>Google<Object>
+<relation>use_to<relation>
+<line>• Googlebot ––to index content for showing in Google web search results.<line>
+
+<Subject>• Googlebot-Image ––to index<Subject>
+<Object>Google image search<Object>
+<relation>the_same_as<relation>
+<line>• Googlebot-Image ––to index images for showing in Google image search This is also the same crawler used for mobile phones.<line>
+
+<Subject>• Googlebot-News ––to<Subject>
+<Object>news feed<Object>
+<relation>contain<relation>
+<line>• Googlebot-News ––to collect news feed for showing in Google News search results.<line>
+
+<Subject>• Googlebot-Video ––to crawl videos<Subject>
+<Object>the Web<Object>
+<relation>use_to<relation>
+<line>• Googlebot-Video ––to crawl videos on the Web for showing in video search results.<line>
+
+<Subject>• Googlebot-Mobile ––for Google<Subject>
+<Object>mobile search<Object>
+<relation>contain<relation>
+<line>• Googlebot-Mobile ––for Google mobile search on feature phones.<line>
+
+
+<Subject>web page content<Subject>
+<Object>relevant Google AdSense<Object>
+<relation>example<relation>
+<line>• Google-Mediapartners ––for indexing web page content to display relevant Google AdSense ads.<line>
+
+<Subject>The word Google<Subject>
+<Object>the word googol<Object>
+<relation>example<relation>
+<line>The word Google comes from the word googol, which stands for 10,100 .<line>
+
+<Subject>Google search engine<Subject>
+<Object>www.google.com<Object>
+<relation>use_to<relation>
+<line>Google search engine, www.google.com, claims to be the best search engine today.<line>
+
+<Subject>The entire Google engine<Subject>
+<Object>C/C++<Object>
+<relation>contain<relation>
+<line>The entire Google engine is written in C/C++ and operated under Solaris/Linux platforms to ensure high performance .<line>
+
+<Subject>Figure<Subject>
+<Object>its system architecture<Object>
+<relation>use_to<relation>
+<line>Figure 7.5 shows its system architecture.<line>
+
+<Subject>The entire Google search engine operation<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>The entire Google search engine operation includes.<line>
+
+<Subject>• Google URL<Subject>
+<Object>Google<Object>
+<relation>use_to<relation>
+<line>• Google URL sends URLs lists to be fetched by Google crawlers.<line>
+
+<Subject>The Storage Server<Subject>
+<Object>the reposidownload<Object>
+<relation>example<relation>
+<line>• The Storage Server compresses web pages and stores them into the reposidownload pages to the Storage Server.<line>
+
+<Subject>• Every web page<Subject>
+<Object>a unique ID<Object>
+<relation>example<relation>
+<line>• Every web page being fetched is associated with a unique ID called docID tory.<line>
+
+<Subject>an index<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>with an index.<line>
+
+<Subject>The search engine<Subject>
+<Object>the repository<Object>
+<relation>example<relation>
+<line>• The search engine reads the repository, uncompressed documents and performs the parsing operation.<line>
+
+<Subject>Each page<Subject>
+<Object>a set<Object>
+<relation>example<relation>
+<line>• Each page is converted into a set of word occurrences, so-called hits .• The indexing engine distributes these hits into a set of barrels and creates a sorted forward index partially.<line>
+
+<Subject>every web page<Subject>
+<Object>important information<Object>
+<relation>example<relation>
+<line>It parses out all the links in every web page and stores important information about them in an anchors file.<line>
+
+<Subject>The URL resolver<Subject>
+<Object>file<Object>
+<relation>example<relation>
+<line>• The URL resolver reads the anchors file and converts relative URLs into absolute URLs and in turn into docID.<line>
+
+<Subject>The Google ranking database<Subject>
+<Object>Page Ranks<Object>
+<relation>example<relation>
+<line>• The Google ranking database is used to compute Page Ranks for all • The Google Sorter takes the barrels and resorts them by wordID instead of documents.<line>
+
+<Subject>docID<Subject>
+<Object>the inverted index<Object>
+<relation>use_to<relation>
+<line>docID to generate the inverted index.<line>
+
+<Subject>the sorter<Subject>
+<Object>a wordIDs list<Object>
+<relation>use_to<relation>
+<line>Also, the sorter produces a wordIDs list and offsets into the inverted index.• The Google Lexicon takes this list together with lexicon produced by the • The Google Searcher uses the lexicon built by Google Lexicon together with indexer and generates a new lexicon to be used by the searcher.<line>
+
+<Subject>the inverted index<Subject>
+<Object>the Page Ranks<Object>
+<relation>contain<relation>
+<line>the inverted index and the Page Ranks to generate answer queries and send back to the user's browser.<line>
+
+<Subject>An image search engine<Subject>
+<Object>an images database<Object>
+<relation>example<relation>
+<line>An image search engine is an images database that can be searched through keywords, so that users can find valuable images.<line>
+
+<Subject>Google<Subject>
+<Object>image search engine<Object>
+<relation>contain<relation>
+<line>Google's image search engine was created on July 12, 2001 and is one of the most comprehensive and famous image search engines today.<line>
+
+<Subject>the Web<Subject>
+<Object>new way<Object>
+<relation>example<relation>
+<line>Now we can explore the Web in an entirely new way by beginning our Google search with an image.<line>
+
+<Subject>image<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>There are a few ways to search by image.<line>
+
+<Subject>images.google.com<Subject>
+<Object>page<Object>
+<relation>example<relation>
+<line>We can visit images.google.com or any images result page and click the camera icon in the search box.<line>
+
+<Subject>Enter<Subject>
+<Object>an image URL<Object>
+<relation>example<relation>
+<line>Enter an image URL for an image hosted on the Web or upload an image from our computer.<line>
+
+<Subject>Search<Subject>
+<Object>image<Object>
+<relation>example<relation>
+<line>Search by image works best when the content is likely to show up in other places on the Web.<line>
+
+<Subject>this reason<Subject>
+<Object> <Object>
+<relation>reason<relation>
+<line>For this reason, it is likely getting more relevant results for famous landmarks or paintings than personal images.<line>
+
+<Subject>Figure<Subject>
+<Object>an example<Object>
+<relation>example<relation>
+<line>Figure 7.6 shows an example of Google image search for “orchids” .<line>
+
+<Subject>image search<Subject>
+<Object>the market<Object>
+<relation>contain<relation>
+<line>Here are the top 5 image search engines in the market: (1) Google image search.<line>
+
+<Subject>Yahoo image search ––Yahoo image search<Subject>
+<Object>second place<Object>
+<relation>reason<relation>
+<line>(2) Yahoo image search ––Yahoo image search comes in second place as one of the best image search engines because a user can find great images for every niche.<line>
+
+<Subject>a user<Subject>
+<Object>niche<Object>
+<relation>example<relation>
+<line>When a user types niche into the search bar with a variety of images, they can also find professional lifestyle images, images with white backgrounds, graphics, and more from the store.<line>
+
+<Subject>Bing image search<Subject>
+<Object>image search<Object>
+<relation>the_same_as<relation>
+<line>(3) Bing image search ––Bing image search is alike Google Images and Yahoo Images so is another great picture search engine to source images.<line>
+
+<Subject>Type user niche<Subject>
+<Object>s/he<Object>
+<relation>example<relation>
+<line>Type user niche or what s/he needs an image into the Bing Image search bar.<line>
+
+<Subject>PicSearch ––PicSearch<Subject>
+<Object>a collection<Object>
+<relation>reason<relation>
+<line>(4) PicSearch ––PicSearch has a collection of 3 billion images and is no wonder one of the best image search engines.<line>
+
+<Subject>The image search engine<Subject>
+<Object>a variety<Object>
+<relation>example<relation>
+<line>The image search engine sources pictures from a variety of websites.<line>
+
+<Subject>User<Subject>
+<Object>stock<Object>
+<relation>contain<relation>
+<line>User can select from lifestyle pictures to stock photos.<line>
+
+<Subject>the user<Subject>
+<Object>permission<Object>
+<relation>drawback<relation>
+<line>But the user still needs to obtain permission to use images on the platform as per the disclaimer at the footer of the website.<line>
+
+<Subject>Yandex ––Yandex<Subject>
+<Object>another free website<Object>
+<relation>example<relation>
+<line>(5) Yandex ––Yandex is another free website with a large images database to search.<line>
+
+<Subject>popular search engine<Subject>
+<Object>Russia<Object>
+<relation>example<relation>
+<line>It is the most popular search engine in Russia but small compared to its competitors.<line>
+
+<Subject>Yandex<Subject>
+<Object>a list<Object>
+<relation>example<relation>
+<line>Yandex only shows where images being used with a list of different sizes.<line>
+
+<Subject>the database<Subject>
+<Object>nothing<Object>
+<relation>the_same_as<relation>
+<line>If the database has nothing to satisfy the exact search it will show similar images to the user.<line>
+
+<Subject>crawler-indexer -type search engine architecture<Subject>
+<Object>addition<Object>
+<relation>example<relation>
+<line>There are several variants of crawler-indexer -type search engine architecture in addition to Google Search Engine .<line>
+
+<Subject>important variant<Subject>
+<Object>the so-called Harvest architecture<Object>
+<relation>example<relation>
+<line>One important variant is the so-called Harvest architecture.<line>
+
+<Subject>Harvest<Subject>
+<Object>a system<Object>
+<relation>example<relation>
+<line>Harvest is a system to collect information and make them searchable using a web interface by using distributed architecture to gather data and distribute data.<line>
+
+<Subject>US Government<Subject>
+<Object>their official search engine<Object>
+<relation>use_to<relation>
+<line>It was used by US Government departments and national institutions as their official search engine originally.<line>
+
+<Subject>Netscape<Subject>
+<Object>Catalog Server<Object>
+<relation>contain<relation>
+<line>Netscape's Catalog Server is a commercial version of Harvest and Network Appliances' cache.<line>
+
+<Subject>Netscape<Subject>
+<Object>fact<Object>
+<relation>use_to<relation>
+<line>Netscape is also in fact the first and one of the most popular commercial browsers used in the 1990s.<line>
+
+<Subject>Figure<Subject>
+<Object>the system architecture<Object>
+<relation>use_to<relation>
+<line>Figure 7.7 shows the system architecture of the Harvest search engine.<line>
+
+<Subject>Harvest search engine<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>Harvest search engine consists of two main components: Gatherers and Brokers .<line>
+
+<Subject>traditional search engine<Subject>
+<Object>the so-called crawler-indexer model<Object>
+<relation>example<relation>
+<line>It is different from traditional search engine using the so-called crawler-indexer model.<line>
+
+<Subject>The role<Subject>
+<Object>Gatherers<Object>
+<relation>example<relation>
+<line>The role of Gatherers is to collect and extract indexing information from one or more web servers in which the gathering times are specified by the Harvest Search Engine .<line>
+
+<Subject>The role<Subject>
+<Object>Brokers<Object>
+<relation>example<relation>
+<line>The role of Brokers is to provide indexing mechanism and query interface to data the system gathered, the brokers receive information from the Gatherers or other Brokers in general to update their indices.<line>
+
+<Subject>Brokers<Subject>
+<Object>information<Object>
+<relation>reason<relation>
+<line>Besides, Brokers will also filter information and send to other Brokers to save searching time.<line>
+
+<Subject>configuration<Subject>
+<Object>Harvest Search Engine workload<Object>
+<relation>example<relation>
+<line>By regulating Gatherers and Brokers configuration, Harvest Search Engine workload can be balanced.<line>
+
+<Subject>Harvest System<Subject>
+<Object>index<Object>
+<relation>example<relation>
+<line>Harvest System builds topic-specific brokers and focuses index contents by avoiding many of generic indices vocabulary and scaling problems in general.<line>
+
+<Subject>example<Subject>
+<Object>the system<Object>
+<relation>example<relation>
+<line>For example, the system provides a replication manager and object cache to reduce network and server load.<line>
+
+<Subject>AltaVista<Subject>
+<Object>the first search engine<Object>
+<relation>example<relation>
+<line>AltaVista is the first search engine to index every word on a page and provides a retrieval system to extract relevant information.<line>
+
+<Subject>Digital<Subject>
+<Object>Research Labs<Object>
+<relation>developer<relation>
+<line>It was developed by Digital's Research Labs in Palo Alto in 1995.<line>
+
+<Subject>AltaVista search engine<Subject>
+<Object>a variety<Object>
+<relation>contain<relation>
+<line>AltaVista search engine was available in more than 25 languages in a variety of versions.<line>
+
+<Subject>AltaVista<Subject>
+<Object>Overture<Object>
+<relation>contain<relation>
+<line>AltaVista was acquired by Overture in 2003 and by Yahoo later in the year.<line>
+
+<Subject>AltaVista search<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>AltaVista search was redirected to Yahoo in 2011.<line>
+
+<Subject>The crawler<Subject>
+<Object>duty<Object>
+<relation>example<relation>
+<line>The crawler's duty in AltaVista Search Engine is to run on a local machine and sends requests to remote web servers .<line>
+
+<Subject>The index<Subject>
+<Object>a centralized fashion<Object>
+<relation>use_to<relation>
+<line>The index is used in a centralized fashion to answer queries from users.<line>
+
+<Subject>Figure<Subject>
+<Object>the system architecture<Object>
+<relation>contain<relation>
+<line>Figure 7.8 shows the system architecture of the AltaVista Search Engine .<line>
+
+<Subject>AltaVista search engine system architecture<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>AltaVista search engine system architecture consists of two components.<line>
+
+<Subject>The first component<Subject>
+<Object>the user interface<Object>
+<relation>contain<relation>
+<line>The first component consists of the user interface and query engine.<line>
+
+<Subject>The second component<Subject>
+<Object>crawler<Object>
+<relation>contain<relation>
+<line>The second component contains crawler and indexer .<line>
+
+<Subject>AltaVista<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>AltaVista was running on 20 processors in 1998.<line>
+
+<Subject>GB RAM<Subject>
+<Object>GB<Object>
+<relation>contain<relation>
+<line>All processors have 130 GB RAM and over 500 GB hard disk space.<line>
+
+<Subject>the query engine<Subject>
+<Object>%<Object>
+<relation>contain<relation>
+<line>Only the query engine occupies more than 75% of these resources.<line>
+
+<Subject>this architecture<Subject>
+<Object> <Object>
+<relation>drawback<relation>
+<line>There are two problems with this architecture.<line>
+
+<Subject>The first problem<Subject>
+<Object>gathering<Object>
+<relation>drawback<relation>
+<line>The first problem is data gathering in the dynamic web environment, which uses saturated communication links and high load at web servers.<line>
+
+<Subject>The second problem<Subject>
+<Object>data volume<Object>
+<relation>drawback<relation>
+<line>The second problem is data volume.<line>
+
+<Subject>The crawler-indexer architecture<Subject>
+<Object>web growth<Object>
+<relation>drawback<relation>
+<line>The crawler-indexer architecture does not cope with web growth for the future.<line>
+
+<Subject>the time AltaVista<Subject>
+<Object>a serious search tool<Object>
+<relation>drawback<relation>
+<line>By the time AltaVista was considered a serious search tool, its focus was changed to a portal, and users were not fond of it.<line>
+
+<Subject>AltaVista<Subject>
+<Object>Google<Object>
+<relation>example<relation>
+<line>While acquisitions and financial struggles had been playing out to AltaVista, Google started to gain ground.<line>
+
+<Subject>Google<Subject>
+<Object>a problem<Object>
+<relation>drawback<relation>
+<line>Additionally, Google foresaw a problem with spam and low-quality search results.<line>
+
+<Subject>Yahoo<Subject>
+<Object>its decision<Object>
+<relation>contain<relation>
+<line>Many experts believe that Yahoo was rather hasty in its decision to close AltaVista without fanfare.<line>
+
+<Subject>the time AltaVista<Subject>
+<Object>the internet community<Object>
+<relation>example<relation>
+<line>But by the time AltaVista was closed in 2013, the internet community had moved on; users that mourned its demise almost certainly did not use it any longer.<line>
+
+<Subject>traditional search<Subject>
+<Object>Google<Object>
+<relation>use_to<relation>
+<line>As said, traditional search engines led by Google did provide us with great assistance to search for information and websites for the past 20+ years.<line>
+
+<Subject>the ever-increasing<Subject>
+<Object>a daily basis<Object>
+<relation>contain<relation>
+<line>However, owing to the ever-increasing of (1) over thousands to millions of new websites on a daily basis; (2) users increase demand for search engine expectation, existing search engines face many new challenges which include.<line>
+
+<Subject>Capability ––as<Subject>
+<Object>the beginning<Object>
+<relation>example<relation>
+<line>(1) Capability ––as mentioned at the beginning of the chapter, traditional search engines such as Google, Bing, or Baidu are all based on keywords concept.<line>
+
+<Subject>such keyword search<Subject>
+<Object>NLP<Object>
+<relation>example<relation>
+<line>In terms of linguistics, such keyword search is only restricted to NLP basic syntax level .<line>
+
+<Subject>example<Subject>
+<Object>a user<Object>
+<relation>example<relation>
+<line>For example, if a user types in a search query: I want to see a jaguar .<line>
+
+<Subject>a real animal jaguar<Subject>
+<Object>the car brand Jaguar<Object>
+<relation>contain<relation>
+<line>Does it mean a real animal jaguar or the car brand Jaguar ?<line>
+
+<Subject>car brand Jaguar<Subject>
+<Object>Jaguar<Object>
+<relation>contain<relation>
+<line>It will probably show car brand Jaguar either because it is the ads related to keyword Jaguar or the most popular vote for using keyword Jaguar to search, without any semantic-level or even pragmatic-level understanding what the user's means in their search query or previous browsing history.<line>
+
+<Subject>Figure<Subject>
+<Object>the search<Object>
+<relation>use_to<relation>
+<line>Figure 7.9 shows the search results for using query: I want to see a jaguar in Bing Search Engine .<line>
+
+<Subject>Efficiency ––Traditional search<Subject>
+<Object>index<Object>
+<relation>reason<relation>
+<line>(2) Efficiency ––Traditional search engines are relatively slow to index dynamic real-time data such as tweets or social media comments.<line>
+
+<Subject>This problem<Subject>
+<Object>The purpose ––traditional keyword-based search<Object>
+<relation>drawback<relation>
+<line>This problem is twofold: (1) The purpose ––traditional keyword-based search engines such as Google are tailored for the fetching information from websites and their underlying web pages originally, which are somehow more static than the tweets or social media comments in a real-time update; (2) The volume—new tweets or social media comments are another dimensional volume compared to websites, especially if the search engine is not intelligent enough to decide which real-time tweets need to be searched or not, or simply do it in a random manner.<line>
+
+<Subject>Coverage—Search<Subject>
+<Object>index web<Object>
+<relation>contain<relation>
+<line>(3) Coverage—Search engines index web pages but users often want the underlying data, e.g.<line>
+
+<Subject>stock<Subject>
+<Object>flight<Object>
+<relation>contain<relation>
+<line>stock prices, flight times, weather reports, etc.<line>
+
+<Subject>today<Subject>
+<Object>search engine<Object>
+<relation>example<relation>
+<line>In other words, users today are using search engine not only to search for some websites or information, but also rather would expect the search engine to understand what they really meant to provide the answer or information they want to know.<line>
+
+<Subject>traditional search<Subject>
+<Object>system performance<Object>
+<relation>drawback<relation>
+<line>There are other problems for users apart from traditional search engines system performance concerns .<line>
+
+
+<Subject>a search query<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>(1) Most users do not understand exactly how to provide a search query.<line>
+
+<Subject>This problem<Subject>
+<Object>fact<Object>
+<relation>drawback<relation>
+<line>This problem in fact has two aspects: (1) All popular search engine are all keyword based.<line>
+
+<Subject>the information<Subject>
+<Object>search<Object>
+<relation>reason<relation>
+<line>Users need to provide keywords that related the information they want to search to provide better search results; (2) Not everyone knows the keyword related to the information they want to search.<line>
+
+<Subject>the complete query string<Subject>
+<Object>natural language sentence<Object>
+<relation>example<relation>
+<line>They simply type the complete query string in natural language sentence.<line>
+
+<Subject>Boolean logic<Subject>
+<Object>advanced searching<Object>
+<relation>drawback<relation>
+<line>(2) Users have difficulties to understand Boolean logic resulting in unable to perform advanced searching.<line>
+
+<Subject>search<Subject>
+<Object>logical inference<Object>
+<relation>reason<relation>
+<line>Since existing search engines all followed logical inference for searching.<line>
+
+<Subject>logical inference<Subject>
+<Object> <Object>
+<relation>drawback<relation>
+<line>Users will not able to perform if they do not understand logical inference or logical operations .<line>
+
+<Subject>a lack<Subject>
+<Object>funding<Object>
+<relation>drawback<relation>
+<line>(3) Users do not care about advertisements resulting in a lack of funding.<line>
+
+<Subject>This issue<Subject>
+<Object>a chicken-and-egg problem<Object>
+<relation>drawback<relation>
+<line>This issue is a chicken-and-egg problem.<line>
+
+<Subject>The main reason<Subject>
+<Object>popular search<Object>
+<relation>reason<relation>
+<line>The main reason for popular search engines free-of-charge today is that they believe users will give up using if they are not free.<line>
+
+<Subject>The reason<Subject>
+<Object>all commercial search<Object>
+<relation>drawback<relation>
+<line>The reason why all commercial search engines are full of ads especially at the top query result list will affect the accuracy and creditability significantly for a search engine to provide the best match results for users, instead of the best related commercial ads for their queries .<line>
+
+<Subject>%<Subject>
+<Object>the first-page result<Object>
+<relation>contain<relation>
+<line>(4) Around 85% users only look at the first-page result, so relevant answers might be skipped and ignored.<line>
+
+<Subject>Search<Subject>
+<Object>today<Object>
+<relation>drawback<relation>
+<line>Search engines today have one intrinsic problem, as all the search results are searched automatically and ranked according to similar query keywords.<line>
+
+<Subject>The first-page query<Subject>
+<Object>the overall query<Object>
+<relation>example<relation>
+<line>The first-page query results are similar in contents usually and the overall query pages are numerous usually.<line>
+
+<Subject>the first page<Subject>
+<Object> <Object>
+<relation>drawback<relation>
+<line>Users simply browse the first page and give up.<line>
+
+<Subject>context<Subject>
+<Object>keyword<Object>
+<relation>reason<relation>
+<line>But maybe the true results appeared in the later pages because they are closely related in context , but not in keyword hits or term frequency .<line>
+
+<Subject>Figure<Subject>
+<Object>SUV query<Object>
+<relation>contain<relation>
+<line>Figure 7.10 shows the best SUV query results in Bing, as one may see, all top query results are ads.<line>
+
+<Subject>SUV<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>Are they really the best SUV, or just the ones that pay most?<line>
+
+<Subject>Ancient Greece<Subject>
+<Object>knowledge<Object>
+<relation>use_to<relation>
+<line>Since Ancient Greece , many philosophers have been discussing knowledge .<line>
+
+<Subject>knowledge definition<Subject>
+<Object> <Object>
+<relation>drawback<relation>
+<line>It is not easy to highly abstract knowledge definition.<line>
+
+<Subject>Knowledge<Subject>
+<Object>the world<Object>
+<relation>example<relation>
+<line>Knowledge can be defined as meaningful resources that make us understand the world.<line>
+
+<Subject>Knowledge theory<Subject>
+<Object>the content<Object>
+<relation>reason<relation>
+<line>Knowledge theory defines the content about the world, how to encode it, and how we reason about the world.<line>
+
+<Subject>the computer<Subject>
+<Object>purpose<Object>
+<relation>example<relation>
+<line>Unless we define it for the computer processing purpose rather than human understanding, similar definitions can be applied to computers and information systems.<line>
+
+<Subject>computational knowledge<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>This is called computational knowledge.<line>
+
+<Subject>Computational Knowledge<Subject>
+<Object>many Knowledge Management Theories<Object>
+<relation>example<relation>
+<line>Computational Knowledge In many Knowledge Management Theories, hierarchical: data→information→knowledge .<line>
+
+<Subject>Figure<Subject>
+<Object>the famous Computational Knowledge<Object>
+<relation>contain<relation>
+<line>Figure 7.11 shows the famous Computational Knowledge in computer science can be regarded as Knowledge Pyramid .<line>
+
+<Subject>this model<Subject>
+<Object>the program<Object>
+<relation>use_to<relation>
+<line>In this model, data refers to original data consisting of strings of digits, numbers, or symbols that are meaningful only to the program.<line>
+
+<Subject>Information<Subject>
+<Object>a certain degree<Object>
+<relation>example<relation>
+<line>Information refers to combining data to produce a certain degree of basic meaning.<line>
+
+<Subject>Knowledge<Subject>
+<Object>information<Object>
+<relation>example<relation>
+<line>Knowledge refers to gathering information to provide practical knowledge.<line>
+
+<Subject>Wisdom<Subject>
+<Object>level<Object>
+<relation>contain<relation>
+<line>Wisdom refers to the highest level of knowledge corresponding to the generated insights and wisdom, which is our ultimate knowledge goal.<line>
+
+<Subject>computational knowledge<Subject>
+<Object>AI study<Object>
+<relation>example<relation>
+<line>Creating computational knowledge is AI study.<line>
+
+<Subject>Advanced information<Subject>
+<Object>information retrieval<Object>
+<relation>example<relation>
+<line>Advanced information systems, such as information retrieval systems, forecasting systems, resource management systems, online shopping systems, personalized systems, etc.<line>
+
+<Subject>computational knowledge<Subject>
+<Object>intelligence<Object>
+<relation>example<relation>
+<line>always require computational knowledge to perform tasks with higher intelligence.<line>
+
+<Subject>Traditional information<Subject>
+<Object>intelligence<Object>
+<relation>drawback<relation>
+<line>Traditional information systems lack intelligence because they process data and information without analyzing the knowledge behind them.<line>
+
+<Subject>knowledge<Subject>
+<Object>order<Object>
+<relation>example<relation>
+<line>We need to discover and represent knowledge from raw data to computable forms and express it for processing in order for computers to understand and process knowledge.<line>
+
+<Subject>Intelligent information<Subject>
+<Object>the ability<Object>
+<relation>example<relation>
+<line>Intelligent information systems with the ability to process knowledge are called knowledge-based systems.<line>
+
+<Subject>Knowledge engineering<Subject>
+<Object>the past decade<Object>
+<relation>example<relation>
+<line>Knowledge engineering has evolved rapidly over the past decade as the demand for knowledge-based systems has grown.<line>
+
+<Subject>Knowledge engineering<Subject>
+<Object>a process<Object>
+<relation>example<relation>
+<line>Knowledge engineering is a process of extracting useful knowledge from computer data.<line>
+
+<Subject>the process<Subject>
+<Object>a format<Object>
+<relation>example<relation>
+<line>It requires the process of analyzing and discovering data patterns and converting them into a format understandable by humans or computers or both.<line>
+
+<Subject>knowledge engineering research<Subject>
+<Object>software<Object>
+<relation>contain<relation>
+<line>Over the years, knowledge engineering research has been devoted to theories, methods, and software tools development to help individuals acquire computer knowledge.<line>
+
+<Subject>knowledge<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>They use scientific and mathematical methods to discover knowledge.<line>
+
+<Subject>Input ––computer data<Subject>
+<Object>text<Object>
+<relation>example<relation>
+<line>These methods can be simply defined as input–process–output systems: Input ––computer data sets, such as text and database records; Process ––a method of converting input data into knowledge; Output––in a specific form of knowledge representation.<line>
+
+<Subject>Knowledge representation language<Subject>
+<Object>knowledge<Object>
+<relation>use_to<relation>
+<line>Knowledge representation language is used to express knowledge in information systems.<line>
+
+<Subject>the original type<Subject>
+<Object>the user<Object>
+<relation>use_to<relation>
+<line>It can be classified according to the original type used by the user as shown in Table 7.1.<line>
+
+
+<Subject>Logical level<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>Logical level ––contains basic primitives including predicates and functions.<line>
+
+<Subject>interpretation<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>It also allowed formal primitives interpretation.<line>
+
+
+<Subject>Epistemological level<Subject>
+<Object>a knowledge structure<Object>
+<relation>example<relation>
+<line>Epistemological level ––is a knowledge structure used to fill the gaps between logical levels, which are general and abstract primitive elements.<line>
+
+
+<Subject>Ontology level<Subject>
+<Object>an ontology commitment<Object>
+<relation>example<relation>
+<line>Ontology level ––is an ontology commitment that includes ontology relationships related to clearly specify language primitives.<line>
+
+
+<Subject>Conceptual leve<Subject>
+<Object>a clear cognitive interpretation<Object>
+<relation>contain<relation>
+<line>Conceptual leve l––contains primitives with a clear cognitive interpretation, corresponding to concepts meaning not related to language.<line>
+
+
+<Subject>Linguistic level<Subject>
+<Object>process<Object>
+<relation>contain<relation>
+<line>Linguistic level ––contains and process primitive language terms related to language-related nouns and verbs.<line>
+
+<Subject>Ontology<Subject>
+<Object>philosophy<Object>
+<relation>contain<relation>
+<line>Ontology originated from philosophy and has grown into a popular research in computer science and information systems.<line>
+
+<Subject>philosophy perspective<Subject>
+<Object>ontology<Object>
+<relation>contain<relation>
+<line>From philosophy perspective, ontology is a philosophical study of existence.<line>
+
+<Subject>reality<Subject>
+<Object>existence<Object>
+<relation>use_to<relation>
+<line>More broadly, it studies concepts that are directly related to existence , especially to existence, reality, and the basic categories of existence and its relationship.<line>
+
+<Subject>ontology<Subject>
+<Object>a part<Object>
+<relation>use_to<relation>
+<line>Traditionally, ontology refers to a part of the main branch of metaphysics philosophy.<line>
+
+<Subject>Ontology<Subject>
+<Object>the existence<Object>
+<relation>use_to<relation>
+<line>Ontology usually deals with the existence and arguably of entities existence and how to group these entities, to associate and subdivide within the hierarchy according to similarities and differences between them.<line>
+
+<Subject>example<Subject>
+<Object>human history<Object>
+<relation>example<relation>
+<line>For example, two famous philosophers in human history, Aristotle and Kant believed that ontology is a study of existenc e. It refers to a category system used to describe existence or classification of real worlds.<line>
+
+<Subject>ontology concept<Subject>
+<Object>Aristotle<Object>
+<relation>example<relation>
+<line>Although ontology concept has not been developed in Aristotle's philosophy in Ancient Greece, his classification system is still related to the definition of the ontological classification system today.<line>
+
+<Subject>Aristotle<Subject>
+<Object>expression<Object>
+<relation>use_to<relation>
+<line>Table 7.2 shows the ten categories of Aristotle's expression of things or existence.<line>
+
+<Subject>Immanuel Kant<Subject>
+<Object>a new classification system<Object>
+<relation>example<relation>
+<line>Immanuel Kant proposed a new classification system in 1781.<line>
+
+<Subject>The system<Subject>
+<Object>each main category<Object>
+<relation>example<relation>
+<line>The system is divided into four categories, and each main category is divided into three subcategories as shown in Table 7.3.<line>
+
+<Subject>This classification system<Subject>
+<Object>category<Object>
+<relation>use_to<relation>
+<line>This classification system and category are also related to ontology development today, especially the ontology is highly dependent on describing the relationship between an entity or existence.<line>
+
+<Subject>this reference<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>The subcategories of this reference can be regarded as different types of objects, attributes, and ontology relationships.<line>
+
+<Subject>Ontology<Subject>
+<Object>the basic form<Object>
+<relation>example<relation>
+<line>Ontology is also the basic form of knowledge representation about the real world.<line>
+
+<Subject>the computer science perspective<Subject>
+<Object>ontology<Object>
+<relation>use_to<relation>
+<line>From the computer science perspective, ontology defines a set of representational primitives used to model knowledge or discourse domains .<line>
+
+<Subject>The ontological representation<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>The ontological representation primitives contain classes, attributes, and relationships between classes.<line>
+
+<Subject>specific domain knowledge<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>They are used to model specific domain knowledge.<line>
+
+<Subject>Ontology<Subject>
+<Object>development<Object>
+<relation>example<relation>
+<line>Ontology is helpful for knowledge-based systems development, thereby achieving knowledge sharing and reuse.<line>
+
+<Subject>intelligent communication<Subject>
+<Object>communication language<Object>
+<relation>example<relation>
+<line>It enables intelligent communication between computers, such as communication language used in intelligent agents.<line>
+
+<Subject>knowledge<Subject>
+<Object>their own ontology<Object>
+<relation>example<relation>
+<line>Standardized specifications allow knowledge engineers to develop their own ontology by reusing and sharing with each other.<line>
+
+<Subject>Computational ontology<Subject>
+<Object>toplevel ontology<Object>
+<relation>example<relation>
+<line>Computational ontology is usually expressed in different abstract forms: toplevel ontology, lexical ontology, and domain ontology.<line>
+
+<Subject>The top-level ontology<Subject>
+<Object>philosophy<Object>
+<relation>example<relation>
+<line>Top-Level Ontologies The top-level ontology is limited to universal, generic, abstract, and philosophy concepts .<line>
+
+<Subject>range<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>They are general enough to handle high-level abstractions and a wide domains range.<line>
+
+<Subject>the top-level ontology<Subject>
+<Object>a specific domain<Object>
+<relation>example<relation>
+<line>The concepts defined in the top-level ontology are not specific to a specific domain, e.g.<line>
+
+<Subject>medicine<Subject>
+<Object>science<Object>
+<relation>use_to<relation>
+<line>medicine, science, finance but only provide a structure and a set of general concepts from which the domain ontology can be constructed.<line>
+
+<Subject>This toplevel ontology<Subject>
+<Object>interoperability<Object>
+<relation>use_to<relation>
+<line>This toplevel ontology promotes data interoperability, semantic information retrieval, automatic reasoning, and natural language processing.<line>
+
+<Subject>The Standard Upper Ontology Working Group<Subject>
+<Object>upper ontology<Object>
+<relation>example<relation>
+<line>The Standard Upper Ontology Working Group has developed upper ontology standards for computer applications for data interoperability, information search and retrieval, and natural language processing.<line>
+
+<Subject>SUMO<Subject>
+<Object>CYC Ontology<Object>
+<relation>example<relation>
+<line>Upper-layer ontologies examples include SUMO, CYC Ontology, and SUO 4D Ontology.<line>
+
+<Subject>SUMO<Subject>
+<Object>an entry document<Object>
+<relation>contain<relation>
+<line>SUMO has been proposed as an entry document for the SUO working group.<line>
+
+<Subject>a hierarchy<Subject>
+<Object>abstraction<Object>
+<relation>contain<relation>
+<line>It creates a hierarchy of top-level things as entities and contains physics and abstraction.<line>
+
+<Subject>SUMO<Subject>
+<Object>ontology definition<Object>
+<relation>example<relation>
+<line>SUMO divides ontology definition into three levels: upper-level ontology, middle-level ontology, and lower-level domain ontology.<line>
+
+<Subject>The intermediate ontology<Subject>
+<Object>a bridge<Object>
+<relation>example<relation>
+<line>The intermediate ontology acts as a bridge between the upper abstraction of the domain ontology and the rich details of the lower layer.<line>
+
+<Subject>OpenCyc<Subject>
+<Object>complete common-sense knowledge<Object>
+<relation>use_to<relation>
+<line>OpenCyc is one of the most complete common-sense knowledge bases that use upper-level ontologies.<line>
+
+<Subject>Today<Subject>
+<Object>a standard upper ontology<Object>
+<relation>use_to<relation>
+<line>Today, it has been regarded as a standard upper ontology by IEEE.<line>
+
+<Subject>some formal common sense<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>It is some formal common sense.<line>
+
+<Subject>common sense<Subject>
+<Object>common sense<Object>
+<relation>example<relation>
+<line>It models common sense libraries and aims to solve common sense problems.<line>
+
+<Subject>The entire Cyc ontology<Subject>
+<Object>a mutual relationship<Object>
+<relation>contain<relation>
+<line>The entire Cyc ontology contains hundreds of terms, and these terms have a mutual relationship to simulate human consensus reality.<line>
+
+<Subject>a knowledge server<Subject>
+<Object>its Cyc knowledge base<Object>
+<relation>contain<relation>
+<line>It contains a knowledge server that provides services for its Cyc knowledge base , an inference engine, and defines a CyCL representation language for knowledge representation.<line>
+
+<Subject>an upper ontology<Subject>
+<Object>some lower-level ontology knowledge<Object>
+<relation>use_to<relation>
+<line>It is an upper ontology that can be used to define some lower-level ontology knowledge such as domain-specific knowledge , domainspecific facts and data.<line>
+
+<Subject>Figure<Subject>
+<Object>OpenCyc<Object>
+<relation>example<relation>
+<line>Figure 7.12 shows OpenCyc's top-level ontology hierarchy.Lexical ontology is an ontology that describes linguistic knowledge.<line>
+
+<Subject>ontology structure<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>It attempts to model the words meaning through ontology structure.<line>
+
+<Subject>Such ontology<Subject>
+<Object>WordNet<Object>
+<relation>example<relation>
+<line>Such ontology examples include WordNet and HowNet.<line>
+
+<Subject>WordNet<Subject>
+<Object>a lexical database<Object>
+<relation>example<relation>
+<line>WordNet was originally designed as a lexical database of English words.<line>
+
+<Subject>a lexical ontology<Subject>
+<Object>knowledge<Object>
+<relation>use_to<relation>
+<line>It can be used as a lexical ontology to represent knowledge used for computer text analysis and AI application development, especially for many applications related to natural language.<line>
+
+<Subject>group English<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>WordNet defines synsets to group English nouns, verbs, adjectives, and adverbs into synonym sets, and uses different grammatical rules to distinguish them.<line>
+
+<Subject>their semantic relationship<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>It is helpful to model words concept and their semantic relationship.<line>
+
+<Subject>various natural language text analysis<Subject>
+<Object>word sense calculation<Object>
+<relation>use_to<relation>
+<line>It has been used in various natural language text analysis such as word sense calculation and ambiguity elimination.<line>
+
+<Subject>WordNet research<Subject>
+<Object>ImageNet<Object>
+<relation>use_to<relation>
+<line>WordNet research has been extended to ImageNet .<line>
+
+<Subject>WordNet<Subject>
+<Object>image<Object>
+<relation>use_to<relation>
+<line>It uses meaningful concepts in WordNet to connect to image data.<line>
+
+<Subject>a practical example<Subject>
+<Object>WordNet<Object>
+<relation>use_to<relation>
+<line>This is a practical example of using WordNet as knowledge to build an intelligent information system.<line>
+
+<Subject>Figure<Subject>
+<Object>a word ontology example<Object>
+<relation>example<relation>
+<line>Figure 7.13 shows a word ontology example in WordNet.<line>
+
+<Subject>HowNet<Subject>
+<Object>a Chinese word<Object>
+<relation>use_to<relation>
+<line>HowNet is a Chinese word lexical database .<line>
+
+
+<Subject>common sense knowledge<Subject>
+<Object>the relationship<Object>
+<relation>use_to<relation>
+<line>It is common sense knowledge used to model the relationship between concepts and attributes between Chinese lexicon concepts and their equivalents in English.<line>
+
+<Subject>HowNet<Subject>
+<Object>its structural knowledge<Object>
+<relation>use_to<relation>
+<line>HowNet uses its structural knowledge based on Chinese words for Chinese processing.<line>
+
+<Subject>WordNet<Subject>
+<Object>synset<Object>
+<relation>the_same_as<relation>
+<line>Alike to WordNet's synset , HowNet defines its specific Sememe-network to model the inter-concept relationship between Chinese lexicon concepts.<line>
+
+<Subject>HowNet<Subject>
+<Object>computable electronic database<Object>
+<relation>contain<relation>
+<line>HowNet is a fully computable electronic database.<line>
+
+<Subject>HowNet<Subject>
+<Object>knowledge<Object>
+<relation>contain<relation>
+<line>HowNet's knowledge consists of graphics.<line>
+
+<Subject>Figure<Subject>
+<Object>a graph-based example<Object>
+<relation>example<relation>
+<line>Figure 7.14 shows a graph-based example used to describe different concepts, attributes, and their interrelationships.<line>
+
+<Subject>HowNet<Subject>
+<Object>a taxonomy<Object>
+<relation>use_to<relation>
+<line>HowNet is also defined a taxonomy as a high-level ontology for Chinese lexicon conceptual model category.<line>
+
+<Subject>a lot<Subject>
+<Object>work<Object>
+<relation>example<relation>
+<line>Although a lot of work has been done on these lexical ontologies and they have also conceptualized lexical knowledge very effectively.<line>
+
+<Subject>The main problem<Subject>
+<Object>the process<Object>
+<relation>drawback<relation>
+<line>The main problem with these ontologies is that they are created manually throughout the process.<line>
+
+<Subject>The disadvantage<Subject>
+<Object>manual processing<Object>
+<relation>drawback<relation>
+<line>The disadvantage of manual processing is that it is difficult to maintain, i.e.<line>
+
+<Subject>new knowledge<Subject>
+<Object>modify<Object>
+<relation>example<relation>
+<line>add new knowledge, modify, and update existing knowledge.<line>
+
+<Subject>The concept<Subject>
+<Object>usage<Object>
+<relation>example<relation>
+<line>The concept and words usage are constantly changing, so defined words knowledge is not effective permanently.<line>
+
+<Subject>continuous manual update work<Subject>
+<Object>reconstruction<Object>
+<relation>drawback<relation>
+<line>Therefore, continuous manual update work and reconstruction are required making the process ineffective.<line>
+
+<Subject>Domain Ontologies Domain ontology<Subject>
+<Object>upper ontology<Object>
+<relation>example<relation>
+<line>Domain Ontologies Domain ontology is related to specific domains that can be extended from upper ontology .<line>
+
+<Subject>a specific domain<Subject>
+<Object>a huge ontology<Object>
+<relation>drawback<relation>
+<line>It should be defined for a specific domain, because even a huge ontology like Cyc contains more than modeling general and high-level 10,000 concepts, but its depth is not enough to express domain-specific concepts and low-level concepts.<line>
+
+<Subject>A domain ontology<Subject>
+<Object>interest<Object>
+<relation>contain<relation>
+<line>A domain ontology is formed based on concepts in specific domains of interest in order to model domain knowledge and make its information expressible and understandable by machines.<line>
+
+<Subject>Domain<Subject>
+<Object>Cyc<Object>
+<relation>example<relation>
+<line>Domain ontologies are preferably constructed based on available upper-level ontologies such as Cyc to facilitate mapping and integration between different domain ontologies created by different experts or researchers to enhance sharing and usability.<line>
+
+<Subject>commonsense knowledge<Subject>
+<Object>domain<Object>
+<relation>reason<relation>
+<line>Unlike upper-level ontologies that are frequently used to infer commonsense knowledge, domain ontologies are mainly used to reason about specific knowledge domains.<line>
+
+<Subject>Domain ontology<Subject>
+<Object>a boarder<Object>
+<relation>drawback<relation>
+<line>Domain ontology is a boarder and more general in defining knowledge.<line>
+
+<Subject>the domain ontology<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>In other words, the domain ontology is not abstract but more specific.<line>
+
+<Subject>computer<Subject>
+<Object>specific target<Object>
+<relation>reason<relation>
+<line>Therefore, building smart applications is more useful because computer applications are usually developed for specific target domains.<line>
+
+<Subject>Figure<Subject>
+<Object>the ontology tree<Object>
+<relation>use_to<relation>
+<line>Figure 7.15 shows the ontology tree specified for entertainment.<line>
+
+<Subject>application<Subject>
+<Object>share<Object>
+<relation>example<relation>
+<line>Most application ontologies rely on domains, but they share with each other across different domains.<line>
+
+<Subject>Ontology engineering<Subject>
+<Object>domain ontology<Object>
+<relation>example<relation>
+<line>Ontology engineering usually aims to define and create domain ontology, not top-level and lexical ontology.<line>
+
+<Subject>fact<Subject>
+<Object>engineering<Object>
+<relation>contain<relation>
+<line>In fact, ontology engineering's main research and development is also focused on domain ontology.Ontology engineering tool or ontology editor is an application that can help ontology engineers and domain experts create and maintain ontology.<line>
+
+<Subject>different ontology<Subject>
+<Object>ontology management<Object>
+<relation>example<relation>
+<line>These applications operate ontologies in different ontology languages, providing ontology management functions on the screen, i.e.<line>
+
+<Subject>create<Subject>
+<Object>edit<Object>
+<relation>use_to<relation>
+<line>create, edit, verify, import, and export.<line>
+
+<Subject>Protégé<Subject>
+<Object>Onto-Builder<Object>
+<relation>example<relation>
+<line>Examples of such applications include Protégé, Onto-Builder, OntoEdit, Construct, etc.<line>
+
+<Subject>Protégé<Subject>
+<Object>a free open-source ontology editor<Object>
+<relation>contain<relation>
+<line>Protégé is a free open-source ontology editor for creating domain models with ontology and knowledge-based information systems.<line>
+
+<Subject>Stanford University<Subject>
+<Object> <Object>
+<relation>developer<relation>
+<line>It was developed by Stanford University.<line>
+
+<Subject>The Protégé editor<Subject>
+<Object>various ontology<Object>
+<relation>example<relation>
+<line>The Protégé editor supports various ontology languages, such as RDF, RDF(S), DAML + OIL, XML, OWL, Clips, UML, etc.<line>
+
+<Subject>Protégé<Subject>
+<Object>main ontology<Object>
+<relation>contain<relation>
+<line>Protégé supports two main ontology modeling methods include: Frame-based ontology modeling conforms to the open knowledge base connection.<line>
+
+<Subject>The model<Subject>
+<Object>a set<Object>
+<relation>contain<relation>
+<line>The model consists of a set of classes representing domain concepts in ontology hierarchy, a set of association slots in classes representing attributes and relationships, and a set of instances of these classes.<line>
+
+<Subject>An ontology model<Subject>
+<Object>OWL<Object>
+<relation>use_to<relation>
+<line>An ontology model based on OWL for semantic web.<line>
+
+<Subject>OWL<Subject>
+<Object>a language<Object>
+<relation>example<relation>
+<line>OWL is a language for describing classes, attributes, and their instances.<line>
+
+<Subject>ontology<Subject>
+<Object>semantic web<Object>
+<relation>contain<relation>
+<line>It officially specifies how to derive the logical results of ontology and aims to develop semantic web applications.<line>
+
+<Subject>Figure<Subject>
+<Object>a Protégé-OWL editor screenshot<Object>
+<relation>use_to<relation>
+<line>Figure 7.16 shows a Protégé-OWL editor screenshot used for OWL ontology modeling.<line>
+
+<Subject>The current web system<Subject>
+<Object>HTML<Object>
+<relation>example<relation>
+<line>The current web system is mainly based on HTML.<line>
+
+<Subject>HTML<Subject>
+<Object>information exchange<Object>
+<relation>contain<relation>
+<line>HTML was designed originally for information exchange and display only.<line>
+
+<Subject>web content<Subject>
+<Object> <Object>
+<relation>drawback<relation>
+<line>Therefore, they are not designed to understand web content for themselves.<line>
+
+<Subject>web content<Subject>
+<Object>this problem<Object>
+<relation>contain<relation>
+<line>Enriching web content with semantic data aims to solve this problem.<line>
+
+<Subject>The semantic web<Subject>
+<Object>a type<Object>
+<relation>example<relation>
+<line>The semantic web is a type of technology that adds more structured markup data to the semi-structured information of HTML pages.<line>
+
+<Subject>the machine<Subject>
+<Object>legibility<Object>
+<relation>use_to<relation>
+<line>This semantically marked data benefits from the machine's legibility.<line>
+
+<Subject>web content<Subject>
+<Object> <Object>
+<relation>reason<relation>
+<line>Therefore, it can enhance proxy applications to handle web content.<line>
+
+<Subject>a close relationship<Subject>
+<Object>ontology<Object>
+<relation>use_to<relation>
+<line>There is also a close relationship between ontology and the semantic web because ontology is a key element in constructing semantic web content.<line>
+
+<Subject>The semantic web<Subject>
+<Object>data<Object>
+<relation>use_to<relation>
+<line>The semantic web is not only used to provide web data for human use, but also to create data that machines can understand and process .<line>
+
+<Subject>The main vision<Subject>
+<Object>the semantic web<Object>
+<relation>example<relation>
+<line>The main vision of the semantic web is to create data that machine can process and define how the machine operates on the data and make the web system more intelligent.<line>
+
+<Subject>a semantic network<Subject>
+<Object>today<Object>
+<relation>example<relation>
+<line>We need a semantic network because today's network information is overloaded.<line>
+
+<Subject>amount<Subject>
+<Object>a large information amount<Object>
+<relation>reason<relation>
+<line>Because web data amount is too large to be used by human, we need machines to help us process a large information amount before delivering it to us.<line>
+
+<Subject>Information processing<Subject>
+<Object>information filtering<Object>
+<relation>example<relation>
+<line>Information processing such as information filtering, searching, and recommendation requires high-level machine intelligence, and semantic web technology enables us to develop such intelligent systems effectively.<line>
+
+<Subject>The adoption<Subject>
+<Object>semantic web technology<Object>
+<relation>example<relation>
+<line>The adoption of semantic web technology can benefit many organizations in current business processes and improve their efficiency.<line>
+
+<Subject>Daconta<Subject>
+<Object>the idea<Object>
+<relation>example<relation>
+<line>Daconta et al described the idea that semantic web can take advantage of the organization's best interests and modified it as shown in Fig.<line>
+
+
+<Subject>Semantic web<Subject>
+<Object>its core component<Object>
+<relation>example<relation>
+<line>Semantic web has knowledge as its core component.<line>
+
+<Subject>machine<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>It is located in data that machine can process.<line>
+
+<Subject>the machine<Subject>
+<Object>the user<Object>
+<relation>example<relation>
+<line>These data enable the machine to analyze and return some useful results to the user.<line>
+
+<Subject>decision-making<Subject>
+<Object>marketing<Object>
+<relation>contain<relation>
+<line>The results of these analyses are helpful for decision-making and marketing purposes.<line>
+
+<Subject>The machine<Subject>
+<Object>certain expert advice<Object>
+<relation>example<relation>
+<line>The machine can even provide users with certain expert advice or suggestions and provide more valuable knowledge to help decision-making.<line>
+
+<Subject>Traditional business<Subject>
+<Object>e-commerce<Object>
+<relation>example<relation>
+<line>Traditional business applications such as e-commerce and customer relationship management only provide static data, such as product information, transaction records, customer information, etc.<line>
+
+<Subject>Semantic web<Subject>
+<Object>e-commerce docking<Object>
+<relation>reason<relation>
+<line>Semantic web has reasoning capabilities that can be used in e-commerce docking.<line>
+
+<Subject>business<Subject>
+<Object> <Object>
+<relation>reason<relation>
+<line>It helps to connect potential customers with business partners or sales departments.<line>
+
+<Subject>This intelligent business<Subject>
+<Object>management function create<Object>
+<relation>example<relation>
+<line>This intelligent business and management function create more profit opportunities for the organization.<line>
+
+<Subject>This section<Subject>
+<Object>the semantic web<Object>
+<relation>contain<relation>
+<line>This section introduces the semantic web defined by W3C, which involves basic concepts and technologies that support semantic web development.<line>
+
+<Subject>Figure<Subject>
+<Object>semantic web stack<Object>
+<relation>use_to<relation>
+<line>Figure 7.18 visualizes semantic web stack through W3C.<line>
+
+<Subject>semantic web<Subject>
+<Object> <Object>
+<relation>developer<relation>
+<line>It is divided into different layers and semantic web can be developed.<line>
+
+<Subject>a self-describing markup language<Subject>
+<Object>the bottom<Object>
+<relation>example<relation>
+<line>It uses a self-describing markup language XML starting from the bottom which can exchange data on the entire Web, but it does not mean any meaning and knowledge embedded in the data.<line>
+
+<Subject>RDF<Subject>
+<Object>RDF schema<Object>
+<relation>example<relation>
+<line>Therefore, RDF and RDF schema are defined and built on top of XML.<line>
+
+<Subject>meaning<Subject>
+<Object>data<Object>
+<relation>use_to<relation>
+<line>It can be used to model abstract data meaning and data semantics representation.<line>
+
+<Subject>The data<Subject>
+<Object>RDF<Object>
+<relation>example<relation>
+<line>The data semantics in RDF can therefore easy to handle and understand by software agent.<line>
+
+<Subject>the ontology knowledge<Subject>
+<Object>OWL<Object>
+<relation>use_to<relation>
+<line>Finally, model the ontology knowledge in OWL.<line>
+
+<Subject>OWL<Subject>
+<Object>detailed information<Object>
+<relation>contain<relation>
+<line>OWL defines more detailed information about attributes, classes, relationships between classes, cardinality, equality, etc.<line>
+
+<Subject>SPARQL<Subject>
+<Object>a query language<Object>
+<relation>example<relation>
+<line>SPARQL defines a query language for semantic web data.<line>
+
+<Subject>layer<Subject>
+<Object>semantic web stack<Object>
+<relation>use_to<relation>
+<line>This includes the lower layer in semantic web stack.<line>
+
+<Subject>semantic web architecture<Subject>
+<Object>proof<Object>
+<relation>example<relation>
+<line>The upper layers of semantic web architecture include proof and trust.<line>
+
+<Subject>accessibility<Subject>
+<Object>credibility<Object>
+<relation>use_to<relation>
+<line>It describes distributed data accessibility and credibility.<line>
+
+<Subject>reason<Subject>
+<Object>confidence<Object>
+<relation>reason<relation>
+<line>Web applications can reason about derived results confidence based on these layers.Semantic modeling in information technology refers to mapping or formalizing human knowledge into a certain language syntax.<line>
+
+<Subject>Human knowledge<Subject>
+<Object>unstructured natural language<Object>
+<relation>example<relation>
+<line>Human knowledge is expressed in unstructured natural language usually which is difficult for computer processing.<line>
+
+<Subject>some structured language grammar<Subject>
+<Object>the natural language<Object>
+<relation>example<relation>
+<line>Therefore, we need some structured language grammar to model potential semantics behind the natural language.<line>
+
+<Subject>The semantic modeling<Subject>
+<Object>main idea<Object>
+<relation>example<relation>
+<line>The semantic modeling main idea is to associate the term in the sentence with a concept in the real world that the term refers to.<line>
+
+<Subject>semantic modeling<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>Various techniques have been developed to handle semantic modeling tasks.<line>
+
+<Subject>these semantic modeling<Subject>
+<Object>our ability<Object>
+<relation>example<relation>
+<line>We have simplified these semantic modeling techniques from weak semantics to strong semantics based on our ability to express knowledge.<line>
+
+<Subject>Figure<Subject>
+<Object>the 4-level structure<Object>
+<relation>use_to<relation>
+<line>Figure 7.19 shows the 4-level structure of semantic modeling.<line>
+
+<Subject>Taxonomy Taxonomy<Subject>
+<Object>knowledge<Object>
+<relation>use_to<relation>
+<line>Taxonomy Taxonomy describes knowledge in terms of hierarchical structure or parent–child relationship semantics .<line>
+
+<Subject>Taxonomy<Subject>
+<Object>a type<Object>
+<relation>example<relation>
+<line>Taxonomy is a type of classification system in the form of relationship between categories and subcategories.<line>
+
+<Subject>A typical taxonomy<Subject>
+<Object>the animal classification<Object>
+<relation>use_to<relation>
+<line>A typical taxonomy is the animal classification in biology.<line>
+
+<Subject>example<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>For example, animals are classified as cartilaginous animals, arthropods, mollusks, etc., while carbonates are further classified as Aves, reptiles, amphibians, mammals, etc.<line>
+
+
+<Subject>the real world<Subject>
+<Object>a long history<Object>
+<relation>use_to<relation>
+<line>It is useful when describing creatures in the real world and has a long history in biology.<line>
+
+<Subject>Taxonomy<Subject>
+<Object>the information technology environment<Object>
+<relation>example<relation>
+<line>Taxonomy can also be found anywhere in the information technology environment such as the folder structure in computer drives and websites site map.<line>
+
+<Subject>example<Subject>
+<Object>financial website content<Object>
+<relation>contain<relation>
+<line>For example, financial website content can be classified as investment, news and experts, personal finance, etc.<line>
+
+<Subject>investment<Subject>
+<Object>today<Object>
+<relation>contain<relation>
+<line>and investment can be further classified as today's market, market events, etc.<line>
+
+<Subject>today<Subject>
+<Object>market<Object>
+<relation>contain<relation>
+<line>Finally, today's market contains hyperlinks to the market, overview, market updates, etc.<line>
+
+<Subject>Thesaurus Thesaurus<Subject>
+<Object>A controlled vocabulary<Object>
+<relation>use_to<relation>
+<line>Thesaurus Thesaurus can be defined as: A controlled vocabulary arranged and organized in a known order so that the equivalence, isomorphism, hierarchy, and association between terms are clearly displayed and identified through standardized relationship indicators.<line>
+
+<Subject>knowledge<Subject>
+<Object>taxonomy<Object>
+<relation>example<relation>
+<line>Therefore, it can describe knowledge better than taxonomy.<line>
+
+<Subject>The relationship<Subject>
+<Object>controlled vocabulary<Object>
+<relation>use_to<relation>
+<line>The relationship between the terms in controlled vocabulary is used to associate the meaning of the term with the meaning of other terms.<line>
+
+<Subject>WordNet<Subject>
+<Object>an example<Object>
+<relation>example<relation>
+<line>WordNet is an example of English thesaurus and Chinese HowNet.<line>
+
+
+<Subject>The topic maps<Subject>
+<Object>an ISO<Object>
+<relation>example<relation>
+<line>The topic maps is an ISO international standard for representing structured information models.<line>
+
+<Subject>a semantic web technology<Subject>
+<Object>the relationship<Object>
+<relation>example<relation>
+<line>It is a semantic web technology used to express the relationship between abstract concepts and information resources.<line>
+
+<Subject>the topic map model<Subject>
+<Object>Topic space<Object>
+<relation>example<relation>
+<line>Therefore, the topic map model can be divided into two separate spaces: (1) Topic space, composed of topics representing real-world concepts; (2) Resource space, composed of resource files which are electronic files such as web pages, texts documents, multimedia files, etc.<line>
+
+<Subject>connect resource<Subject>
+<Object>the presence<Object>
+<relation>example<relation>
+<line>Connect topics together to form concepts through associative connections and connect resource files through the presence of connections as shown in Fig.<line>
+
+
+<Subject>the topic diagram<Subject>
+<Object>a machine-processable format<Object>
+<relation>example<relation>
+<line>The components in the topic diagram include: (1) Topics, a machine-processable format that can represent anything about electronics resources or nonelectronic resources; (2) Association, used to represent the relationship between topics to form concepts; (3) Occurrences used to indicate or refer to related topics resources concept formation.<line>
+
+<Subject>Ontology Ontology<Subject>
+<Object>powerful semantic modeling technology<Object>
+<relation>example<relation>
+<line>Ontology Ontology is the most powerful semantic modeling technology among other technologies discussed above.<line>
+
+<Subject>The word ontology<Subject>
+<Object>philosophy<Object>
+<relation>use_to<relation>
+<line>The word ontology is borrowed from philosophy.<line>
+
+<Subject>Ontology<Subject>
+<Object>the field<Object>
+<relation>example<relation>
+<line>Ontology precisely defines terms related to specific fields, represents the field of knowledge, and standardizes meaning in computer science.<line>
+
+<Subject>Gruber<Subject>
+<Object>Ontology<Object>
+<relation>use_to<relation>
+<line>According to Gruber: Ontology is a clear specification for conceptualization.<line>
+
+<Subject>Ontology<Subject>
+<Object>a set<Object>
+<relation>example<relation>
+<line>Ontology consists of a set of words usually, taxonomy, relationships, attributes, etc.<line>
+
+<Subject>the knowledge domain<Subject>
+<Object>taxonomy<Object>
+<relation>example<relation>
+<line>Therefore, it can model the knowledge domain with stronger semantics than taxonomy and thesaurus.Component Description Classes Instances Relationships Properties Functions Constraints Set of concepts that describe objects Particular things of objects Associations about meaning among those things Property values of those things Functions and processes describing those things Description logic and rules describing those things Table 7.5 lists the components of ontology.<line>
+
+<Subject>a typical ontology<Subject>
+<Object>theoretical ontology<Object>
+<relation>use_to<relation>
+<line>As shown, a typical ontology is composed of six ontologies: classes, instances, relationships, properties, functions, and constraints, which correspond to theoretical ontology concepts described in previous sections.<line>
+
+<Subject>Ontology Languages<Subject>
+<Object>Semantic Web Ontology language<Object>
+<relation>use_to<relation>
+<line>Ontology Languages for Semantic Web Ontology language is a markup language that can be used to model data semantic architecture in semantic web architecture data layer.<line>
+
+<Subject>ontology<Subject>
+<Object>semantic web<Object>
+<relation>example<relation>
+<line>The languages that can be used to mark ontology and semantic web data semantics include XML, RDF, RDFS, DAML + OIL, and OWL as shown in Fig.<line>
+
+<Subject>7.21.Extensible Markup Language<Subject>
+<Object>basic markup language<Object>
+<relation>example<relation>
+<line>7.21.Extensible Markup Language is the most basic markup language for data exchange between machines.<line>
+
+<Subject>a structured format<Subject>
+<Object>a machine<Object>
+<relation>example<relation>
+<line>It is a structured format and can be processed by a machine.<line>
+
+<Subject>XML<Subject>
+<Object>a specific DTD<Object>
+<relation>example<relation>
+<line>XML with a specific DTD or XML schema specifies a grammatical convention but the required data semantics are not defined in XML data, so it is necessary to build an upper markup language on top of XML.<line>
+
+<Subject>Resource Description Framework RDF<Subject>
+<Object>a language framework<Object>
+<relation>use_to<relation>
+<line>Resource Description Framework RDF is a language framework by W3C recommendation defined the web-based resource meta-data description.<line>
+
+<Subject>P.<Subject>
+<Object>This triple notation<Object>
+<relation>example<relation>
+<line>RDF presents data in subject–predicate–object triple written as P. This triple notation allows object playing the role of a value, which enables two labeled edges chaining in a graphical visualization as shown in Fig.<line>
+
+
+<Subject>The RDF<Subject>
+<Object>P<Object>
+<relation>example<relation>
+<line>The RDF triples P is defined as: hasAuthor(article001, person002), hasTitle(article001, “Science of nature”), hasName(person002, “John Ken”), which can be serialized in RDF/XML syntax as shown in Fig.<line>
+
+
+<Subject>W3C Web Ontology Language<Subject>
+<Object>a semantic web language<Object>
+<relation>contain<relation>
+<line>W3C Web Ontology Language is a semantic web language designed to represent rich and complex knowledge about things, groups of things, and relationships between things.<line>
+
+<Subject>OWL<Subject>
+<Object>a language<Object>
+<relation>example<relation>
+<line>OWL is a language based on computational logic so computer programs can use the knowledge expressed in OWL.<line>
+
+<Subject>instance<Subject>
+<Object>the consistency<Object>
+<relation>use_to<relation>
+<line>For instance, to verify the consistency of this knowledge or to make implicit knowledge explicit.<line>
+
+<Subject>the World Wide Web<Subject>
+<Object>other OWL<Object>
+<relation>contain<relation>
+<line>OWL documents can be published on the World Wide Web and other OWL ontologies can be referenced or cited from them.<line>
+
+<Subject>OWL<Subject>
+<Object>part<Object>
+<relation>contain<relation>
+<line>OWL is part of W3C semantic web technology stack which includes RDF, RDFS, SPARQL, etc.<line>
+
+<Subject>RDF<Subject>
+<Object>RDFS<Object>
+<relation>use_to<relation>
+<line>Compared with RDF and RDFS, OWL provides higher machine readability for web content by adding more vocabulary describing attributes and classes: between classes , cardinality which cannot be supported by RDF.<line>
+
+<Subject>OWL<Subject>
+<Object>expressive tags<Object>
+<relation>reason<relation>
+<line>Therefore, OWL provides more expressive tags for semantic web ontology data.<line>
+
+<Subject>OWL<Subject>
+<Object>RDF<Object>
+<relation>example<relation>
+<line>OWL is built on RDF and RDF Schema and uses RDF's XML syntax as shown in Fig.<line>
+
+
+<Subject>The W3C Web Ontology Working Group<Subject>
+<Object>OWL<Object>
+<relation>example<relation>
+<line>The W3C Web Ontology Working Group has defined OWL as three sublanguage: 1.<line>
+
+<Subject>OWL Full<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>OWL Full; 2.<line>
+
+<Subject>OWL DL<Subject>
+<Object> <Object>
+<relation>drawback<relation>
+<line>OWL DL; and 3.<line>
+
+<Subject>OWL Lite<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>OWL Lite.<line>
+
+<Subject>Each sub-language<Subject>
+<Object>use<Object>
+<relation>example<relation>
+<line>Each sub-language is defined for use by specific communities of implementers and users.<line>
+
+<Subject>OWL<Subject>
+<Object>current version<Object>
+<relation>developer<relation>
+<line>OWL current version was developed by the W3C OWL working group and released in 2009, and the second version was released in 2012.<line>
+
+<Subject>OWL<Subject>
+<Object>specification<Object>
+<relation>contain<relation>
+<line>The deliverables that make up OWL 2 specification include a document overview.<line>
+
+<Subject>an introduction<Subject>
+<Object>OWL<Object>
+<relation>use_to<relation>
+<line>As an introduction to OWL 2, it describes the relationship between OWL 1 and OWL 2 to provide an entry point for remaining deliverables through the document roadmap.<line>
+
+<Subject>Figure<Subject>
+<Object>an OWL2 overview structure<Object>
+<relation>use_to<relation>
+<line>Figure 7.25 shows an OWL2 overview structure.<line>
+
+<Subject>KnowledgeSeeker<Subject>
+<Object>a comprehensive ontological-based search engine system<Object>
+<relation>example<relation>
+<line>KnowledgeSeeker is a comprehensive ontological-based search engine system that defines and implements the following components: 1.<line>
+
+<Subject>Ontology modeling<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>Ontology modeling; 2.<line>
+
+<Subject>Ontology learning<Subject>
+<Object>ontology generation<Object>
+<relation>example<relation>
+<line>Ontology learning; 3. ontology generation; and 4.<line>
+
+<Subject>Ontology query<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>Ontology query.<line>
+
+<Subject>Figure<Subject>
+<Object>the KnowledgeSeeker system architecture<Object>
+<relation>use_to<relation>
+<line>Figure 7.26 shows the KnowledgeSeeker system architecture.<line>
+
+<Subject>KnowledgeSeeker<Subject>
+<Object>various intelligent<Object>
+<relation>example<relation>
+<line>KnowledgeSeeker can be used to develop various intelligent applications based on ontology by using four defined ontology components.<line>
+
+<Subject>knowledge-based information retrieval<Subject>
+<Object>knowledge mining<Object>
+<relation>contain<relation>
+<line>These intelligent applications include knowledge-based information retrieval systems, knowledge mining systems, predicate systems, personalized systems, intelligent agent systems, etc.<line>
+
+<Subject>Ontology Modeling Module<Subject>
+<Object>The ontology<Object>
+<relation>example<relation>
+<line>Ontology Modeling Module The ontology modeling module defines a conceptual structure, which is used to represent ontology data in KnowledgeSeeker system.<line>
+
+<Subject>a knowledge representation method<Subject>
+<Object>knowledge<Object>
+<relation>use_to<relation>
+<line>This is a knowledge representation method and knowledge is represented as an ontology graph.<line>
+
+<Subject>The ontology<Subject>
+<Object>module<Object>
+<relation>contain<relation>
+<line>The ontology learning module is concerned with acquiring knowledge from text.<line>
+
+<Subject>method<Subject>
+<Object>the knowledge domain<Object>
+<relation>use_to<relation>
+<line>It defines the conceptualizing method of the knowledge domain.<line>
+
+<Subject>The method<Subject>
+<Object>a statistical text learner<Object>
+<relation>example<relation>
+<line>The method is based on a statistical text learner and the conceptualization process is to convert text knowledge into a machine-processable format, that is, the ontology graph defined in the module.<line>
+
+<Subject>Ontology Generation Module<Subject>
+<Object>The ontology generation module<Object>
+<relation>example<relation>
+<line>Ontology Generation Module The ontology generation module formalizes conceptual ontology model into a structure file format.<line>
+
+<Subject>This process<Subject>
+<Object>a text corpus<Object>
+<relation>use_to<relation>
+<line>This process uses a text corpus to generate domain ontology and visualize OG in a graphical format.<line>
+
+<Subject>Ontology Querying Module<Subject>
+<Object>The ontology query module<Object>
+<relation>example<relation>
+<line>Ontology Querying Module The ontology query module defines how a system operates using ontology graphs.<line>
+
+<Subject>an important module<Subject>
+<Object>KnowledgeSeeker system<Object>
+<relation>contain<relation>
+<line>It is an important module that can use KnowledgeSeeker system to develop various smart applications.<line>
+
+<Subject>This module<Subject>
+<Object>ontology graph matching<Object>
+<relation>example<relation>
+<line>This module defines operations such as ontology graph matching and querying.<line>
+
+<Subject>ontology graph<Subject>
+<Object>development<Object>
+<relation>developer<relation>
+<line>These operations make ontology graph data available for various applications development such as text classification systems and text search systems.<line>
+
+<Subject>query performance<Subject>
+<Object>domain knowledge effectiveness<Object>
+<relation>use_to<relation>
+<line>These applications can also be used to evaluate query performance methods and domain knowledge effectiveness generated in ontology graphs .<line>
+
+<Subject>The actual ontology graph implementation<Subject>
+<Object>ontology graph model theory<Object>
+<relation>contain<relation>
+<line>The actual ontology graph implementation adopts above ontology graph model theory and definition.<line>
+
+<Subject>This section<Subject>
+<Object>conceptual representation<Object>
+<relation>example<relation>
+<line>This section presents conceptual representation and class implementation hierarchy.<line>
+
+<Subject>The ontology graph implementation<Subject>
+<Object>the basic knowledge representation model<Object>
+<relation>use_to<relation>
+<line>The ontology graph implementation is used as the basic knowledge representation model in KnowledgeSeeker, which is used for ontology storage, learning, querying, and building ontology-based applications.<line>
+
+<Subject>Figure<Subject>
+<Object>an ontology graph<Object>
+<relation>example<relation>
+<line>Figure 7.27 shows an ontology graph conceptual diagram based on term nodes and relationships structure.<line>
+
+<Subject>their complexity<Subject>
+<Object>knowledge<Object>
+<relation>use_to<relation>
+<line>According to their complexity in knowledge, ontology graph s include four conceptual units types.<line>
+
+<Subject>any object<Subject>
+<Object>ontology graph<Object>
+<relation>example<relation>
+<line>Conceptual units , any object in ontology graph can express semantics.<line>
+
+<Subject>a conceptual relationship<Subject>
+<Object>the entire ontology graph<Object>
+<relation>contain<relation>
+<line>All these conceptual units are linked to each other and related through a conceptual relationship to form the entire ontology graph conceptual structure and to model knowledge area.<line>
+
+<Subject>knowledge<Subject>
+<Object>their complexity<Object>
+<relation>example<relation>
+<line>The definitions of the four conceptual units, their properties, and knowledge levels based on their complexity are described as follows: (1) Term: The smallest conceptual unit extracted in meaningful words which is composed of meaning in a human perspective.<line>
+
+<Subject>Concept<Subject>
+<Object>conceptual relationship<Object>
+<relation>use_to<relation>
+<line>(2) Concept: Many terms and conceptual relationship between each other form a concept, which is the basic conceptual unit in the concept graph.<line>
+
+<Subject>cluster<Subject>
+<Object>Multiple<Object>
+<relation>contain<relation>
+<line>(3) Concept cluster: Multiple conceptsrelated to each other form a concept cluster.<line>
+
+<Subject>a tight cluster<Subject>
+<Object>the complex knowledge<Object>
+<relation>contain<relation>
+<line>It groups similar concepts meanings into a tight cluster representing the complex knowledge.<line>
+
+<Subject>Ontology graph<Subject>
+<Object>entire concept unit<Object>
+<relation>use_to<relation>
+<line>(4) Ontology graph: The largest entire concept unit grouped by concept cluster is defined as the ontology graph.<line>
+
+<Subject>comprehensive knowledge<Subject>
+<Object>a specific field<Object>
+<relation>contain<relation>
+<line>It represents comprehensive knowledge in a specific field.<line>
+
+<Subject>Ontology learning<Subject>
+<Object>the process<Object>
+<relation>example<relation>
+<line>Ontology learning is the process of learning and creating knowledge domains in the form of ontology graphs.<line>
+
+<Subject>The creation<Subject>
+<Object>ontology graph<Object>
+<relation>contain<relation>
+<line>The creation of ontology graph is considered as knowledge extraction process.<line>
+
+<Subject>knowledge<Subject>
+<Object>extraction<Object>
+<relation>example<relation>
+<line>We define different levels of knowledge objects in conceptual units, which are necessary for extraction during the learning process.<line>
+
+<Subject>A bottom-up ontology<Subject>
+<Object>method<Object>
+<relation>contain<relation>
+<line>A bottom-up ontology learning method is adopted to extract conceptual units and create ontology graphs.<line>
+
+<Subject>The method<Subject>
+<Object>level term<Object>
+<relation>example<relation>
+<line>The method identifies and generates conceptual units from the lowest level term to the highest level ontology graph.<line>
+
+<Subject>learning<Subject>
+<Object>the bottom<Object>
+<relation>contain<relation>
+<line>The five learning subprocesses start from the bottom are defined as.<line>
+
+<Subject>Term extraction<Subject>
+<Object>basic process<Object>
+<relation>example<relation>
+<line>(1) Term extraction ––the most basic process that recognizes meaningful Chinese terms in text documents.<line>
+
+<Subject>Term-to-class relationship<Subject>
+<Object>––the second process<Object>
+<relation>example<relation>
+<line>(2) Term-to-class relationship mapping ––the second process that finds out the relations between terms and classes.<line>
+
+<Subject>relationship<Subject>
+<Object>––the third process<Object>
+<relation>example<relation>
+<line>(3) Term-to-term relationship mapping ––the third process that finds out the relations between all Chinese terms within a class.<line>
+
+<Subject>Concept<Subject>
+<Object>––the fourth process<Object>
+<relation>example<relation>
+<line>(4) Concept clustering ––the fourth process which further groups the Chinese terms within a class based on their similarities.<line>
+
+<Subject>Ontology Graph generation ––the<Subject>
+<Object>final process<Object>
+<relation>contain<relation>
+<line>(5) Ontology Graph generation ––the final process that generates a graph-based ontology graph as a knowledge representation for application use.<line>
+
+<Subject>Figure<Subject>
+<Object>the bottom-up approach<Object>
+<relation>contain<relation>
+<line>Figure 7.28 shows all subprocesses in the bottom-up approach of ontology graph learning method.<line>
+
+<Subject>The intelligent Content Management System<Subject>
+<Object>OSE technology<Object>
+<relation>example<relation>
+<line>The intelligent Content Management System is based on OSE technology.<line>
+
+<Subject>different content<Subject>
+<Object>i.e<Object>
+<relation>example<relation>
+<line>It provides solutions for different content providers, i.e.<line>
+
+<Subject>search<Subject>
+<Object>mine<Object>
+<relation>example<relation>
+<line>publishers, media, new institutions, libraries to centrally manage, organize, search, data mine, archive, and retrieve digital assets such as news articles, photos, videos, audio clips iCMS database.<line>
+
+<Subject>iCMS<Subject>
+<Object>the ontology knowledge search system<Object>
+<relation>example<relation>
+<line>By integrating iCMS with the ontology knowledge search system, all digital content can be enhanced and organized through ontology-based knowledge.<line>
+
+<Subject>Digital content<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>Digital content can be retrieved and distributed through different channels and mobile applications.<line>
+
+<Subject>iCMS KnowledgeSeeker<Subject>
+<Object>an ontology system<Object>
+<relation>example<relation>
+<line>iCMS KnowledgeSeeker is an ontology system for managing and organizing all digital content in iCMS through ontology methods.<line>
+
+<Subject>iCMS KnowledgeSeeker<Subject>
+<Object>the content database cluster<Object>
+<relation>contain<relation>
+<line>iCMS KnowledgeSeeker is composed of the content database cluster, ontology index database, and ontology search engine.<line>
+
+<Subject>The iCMS KnowledgeSeeker search engine<Subject>
+<Object>Chinese text content<Object>
+<relation>use_to<relation>
+<line>The iCMS KnowledgeSeeker search engine uses ontology methods to analyze Chinese text content such as news articles and uses semantic web concept to semantically organize information.<line>
+
+<Subject>iCMS KnowledgeSeeker<Subject>
+<Object>ontology method<Object>
+<relation>example<relation>
+<line>iCMS KnowledgeSeeker also uses ontology method to identify the article subject.<line>
+
+<Subject>iCMS KnowledgeSeeker<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>iCMS KnowledgeSeeker consists of three components: 1.<line>
+
+<Subject>Ontology<Subject>
+<Object>content index––it<Object>
+<relation>contain<relation>
+<line>Ontology and content index––it stores all ontology information and all analysis information about all iCMS content including ontology-based index.<line>
+
+
+<Subject>Ontological search engine––it<Subject>
+<Object>content analysis<Object>
+<relation>example<relation>
+<line>Ontological search engine––it combines content analysis, content indexing, index search, and user response to search results.<line>
+
+<Subject>iCMS database cluster––it<Subject>
+<Object>all content<Object>
+<relation>contain<relation>
+<line>3. iCMS database cluster––it stores all content files' original sources including articles, audio, video, images, electronic publication data, etc.<line>
+
+<Subject>The processing flow<Subject>
+<Object>Fig<Object>
+<relation>example<relation>
+<line>The processing flow between these components is shown in Fig.<line>
+
+
+<Subject>OSE News<Subject>
+<Object>a web platform<Object>
+<relation>example<relation>
+<line>OSE News is a web platform for reading Chinese RSS news feeds.<line>
+
+<Subject>intelligent agent technology<Subject>
+<Object>RSS news<Object>
+<relation>example<relation>
+<line>It has integrated intelligent agent technology, which enable browsers to read RSS news articles and alsodecompose all articles and provide other related articles to users automatically.<line>
+
+<Subject>addition<Subject>
+<Object>each user<Object>
+<relation>contain<relation>
+<line>In addition, it also allows each user to create their own personalized news categories.<line>
+
+<Subject>OSE News include<Subject>
+<Object>an intelligent agent system<Object>
+<relation>use_to<relation>
+<line>The main functions and features of OSE News include: an intelligent agent system for network news collection; an ontology system for domain knowledge modeling; a 5D ontology system for news semantic analysis and personalized categories.<line>
+
+<Subject>Figure<Subject>
+<Object>OSE News system architecture<Object>
+<relation>use_to<relation>
+<line>Figure 7.30 shows OSE News system architecture.<line>
+
+<Subject>an ontology system<Subject>
+<Object>news content<Object>
+<relation>example<relation>
+<line>It integrates an ontology system for analyzing news content and identifying news topics automatically.<line>
+
+<Subject>The core ontology knowledge<Subject>
+<Object>the news search engine<Object>
+<relation>example<relation>
+<line>The core ontology knowledge also enhances the news search engine so that it can provide users with more accurate and relevant results.<line>
+
+<Subject>The intelligent self-learning function<Subject>
+<Object>news personalization<Object>
+<relation>contain<relation>
+<line>The intelligent self-learning function can also provide news personalization for each registered user.<line>
+
+<Subject>Each user<Subject>
+<Object>their personalized content<Object>
+<relation>contain<relation>
+<line>Each user receives their personalized content based on reading habits and interests.<line>
+
+<Subject>interest<Subject>
+<Object>the system<Object>
+<relation>example<relation>
+<line>They can enter areas of interest into the system when reading news through website, or let the system learn.<line>
+
+<Subject>content<Subject>
+<Object>content<Object>
+<relation>example<relation>
+<line>This allows users to receive content they are most interested in and filter out most content that is not of interest.The collaborative learning method is mainly divided into two processes: (1) Content-based ontology learning process; and (2) User-based ontology personalized learning process.<line>
+
+<Subject>Figure<Subject>
+<Object>the system architecture<Object>
+<relation>contain<relation>
+<line>Figure 7.31 shows the system architecture of the learning method.<line>
+
+<Subject>This figure<Subject>
+<Object>a data flow overview<Object>
+<relation>contain<relation>
+<line>This figure shows a data flow overview of the entire learning system.<line>
+
+<Subject>learning<Subject>
+<Object>result<Object>
+<relation>example<relation>
+<line>Basically, the two learning processes are processed separately, because learning result of creating the content-based learning process is taken as basic input of the user-based learning process.<line>
+
+<Subject>Ontology extraction<Subject>
+<Object>verification<Object>
+<relation>example<relation>
+<line>Ontology extraction and verification are performed on the user side.<line>
+
+<Subject>ontology<Subject>
+<Object>the content-based learning process<Object>
+<relation>example<relation>
+<line>They modify and refine ontology and input it into the content-based learning process to create a complete learning cycle to improve ontology effectiveness.<line>
+
+<Subject>ontology<Subject>
+<Object>process<Object>
+<relation>contain<relation>
+<line>This contentbased ontology learning process includes four main steps: 1.<line>
+
+<Subject>Text analysis<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>Text analysis; 2.<line>
+
+<Subject>Concept selection<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>Concept selection; 3.<line>
+
+<Subject>Ontology learning<Subject>
+<Object> <Object>
+<relation>use_to<relation>
+<line>Ontology learning; 4.<line>
+
+<Subject>Ontology verification<Subject>
+<Object> <Object>
+<relation>reason<relation>
+<line>Ontology verification.<line>
+
+<Subject>Ontology<Subject>
+<Object>outcomes––ontology graph<Object>
+<relation>contain<relation>
+<line>Ontology learning outcomes––ontology graph is defined in this learning process.<line>
+
+<Subject>The text analysis process<Subject>
+<Object>network<Object>
+<relation>example<relation>
+<line>The text analysis process of Chinese documents in network channels requires common Chinese terms and special terms listing for each network channel domain.<line>
+
+<Subject>Extract common Chinese terminology<Subject>
+<Object>list<Object>
+<relation>contain<relation>
+<line>Extract common Chinese terminology from electronic dictionaries which contain more than 50,000 different Chinese characters used as an initial terms list for the text analysis process.<line>
+
+<Subject>The special web channel domain<Subject>
+<Object>product<Object>
+<relation>example<relation>
+<line>The special web channel domain terms such as named entities, product brands, product models, etc.<line>
+
+
+<Subject>The combination<Subject>
+<Object>initial term list<Object>
+<relation>example<relation>
+<line>The combination of special terms and initial term list is the only predefined knowledge in the ontology learning process.<line>
+
+<Subject>the maximum matching algorithm<Subject>
+<Object>the term list<Object>
+<relation>example<relation>
+<line>Then, the maximum matching algorithm is applied to the term list and the web channel document to extract the candidate term list so that each term in the list exists at least once in all web channels.<line>
+
+<Subject>this chapter<Subject>
+<Object>the basic AI concept<Object>
+<relation>contain<relation>
+<line>Up to this chapter, we have learnt the basic AI concept and the five AI core technology that include machine learning, data mining, computer vision, natural language processing, and ontology search engine.<line>
+
+<Subject>sufficient knowledge<Subject>
+<Object>ontology tree<Object>
+<relation>contain<relation>
+<line>Technically speaking, we have sufficient knowledge to build ontology tree or ontology graph on knowledge related to AI.<line>
+
+<Subject>Suppose<Subject>
+<Object>a team<Object>
+<relation>contain<relation>
+<line>Suppose you are assigned to form a team to study and construct an ontological-based learning system on AI: (1) Based on various ontology construction technologies learnt in this chapter, build an ontology structure to relate all concepts, ideas, and technology related to AI learnt in this course.<line>
+
+<Subject>Chap<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>(2) In Chap.<line>
+
+<Subject>NLP<Subject>
+<Object> <Object>
+<relation>contain<relation>
+<line>6, we have learnt all related concepts and technologies related to NLP.<line>
+
+<Subject>Discuss<Subject>
+<Object>OSE-based AI learning system<Object>
+<relation>contain<relation>
+<line>Discuss and explain how we can integrate OSE-based AI learning system into NLP to provide an NLPbased AI learning system.<line>
+
+<Subject>a group discussion topic<Subject>
+<Object>discuss<Object>
+<relation>contain<relation>
+<line>(3) As a group discussion topic, discuss is it possible for a computer to generate new knowledge based on all AI technology learnt so far?<line>
+
+<Subject>Fig<Subject>
+<Object> <Object>
+<relation>example<relation>
+<line>(Fig.<line>
+
+
+<Subject>this chapter<Subject>
+<Object>the foremost AI<Object>
+<relation>contain<relation>
+<line>In this chapter, we discuss the last but also one of the foremost AI technology––ontological search engine.<line>
+
+<Subject>a traditional search engine overview<Subject>
+<Object>keyword search<Object>
+<relation>use_to<relation>
+<line>We start with a traditional search engine overview mainly focusing on keyword search and web crawler and indexing technology.<line>
+
+<Subject>the exponential web<Subject>
+<Object>information<Object>
+<relation>contain<relation>
+<line>However, owing to the exponential web resources and information increases over the Internet on a daily basis, current search engine technology cannot cope with the increasing demand in terms of search results quality, a new age of search engine emerged––Ontological-based Search Engine .<line>
+
+<Subject>Ontology<Subject>
+<Object>fact<Object>
+<relation>use_to<relation>
+<line>Ontology is not in fact a new idea in human history.<line>
+
+<Subject>the core<Subject>
+<Object>human knowledge<Object>
+<relation>use_to<relation>
+<line>It is the core of human knowledge actually and the way we percept and understand concepts, meanings, and ideas.<line>
+
+<Subject>the second part<Subject>
+<Object>this chapter<Object>
+<relation>contain<relation>
+<line>In the second part of this chapter, we explore various latest ontological search engine technology and discuss how AI scientists design and implement ontology frameworks, systems, and related ontology languages such as OWL and OWL2.<line>
+
+<Subject>some potential OSE technology<Subject>
+<Object>OSE<Object>
+<relation>example<relation>
+<line>We also discuss some potential OSE technology applications that include OSE on automatic new retrieval, intelligent content management system, and intelligent web ontology learning systems.<line>
+
+<Subject>OSE technology development<Subject>
+<Object>fact<Object>
+<relation>example<relation>
+<line>OSE technology development is in fact the beginning, hopefully more new technology and applications will appear in coming decades and can surely reshape our world and our ways to access information and knowledge (Fig.<line>
+
+

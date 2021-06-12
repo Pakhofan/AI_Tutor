@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Sound">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../FYP2/Sound_JavaSDK/lib/lib/Msc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../FYP2/Sound_JavaSDK/lib" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
